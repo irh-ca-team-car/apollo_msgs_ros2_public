@@ -4,8 +4,8 @@
   <name>apollo_msgs</name>
   <version>1.0.0</version>
   <description>Apollo ROS2 messages</description>
-  <maintainer email="irh-ca@moyskleytech.com">irh</maintainer>
-  <license>UQTR</license>
+  <maintainer email="boiscljo@uqtr.ca">irh</maintainer>
+  <license>MIT</license>
 
 <buildtool_depend>ament_cmake</buildtool_depend>
 
@@ -20,4 +20,3 @@
     <build_type>ament_cmake</build_type>
   </export>
 </package>
-
