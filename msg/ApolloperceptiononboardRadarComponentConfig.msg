@@ -1,0 +1,8 @@
+string radarname
+string tfchildframeid
+float64 radarforwarddistance
+string radarpreprocessormethod
+string radarperceptionmethod
+string radarpipelinename
+string odometrychannelname
+string outputchannelname

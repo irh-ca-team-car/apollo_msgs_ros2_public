@@ -1,0 +1,2 @@
+string[] partitionedtrajectoriesindexhistory
+bool positioninit false

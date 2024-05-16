@@ -1,0 +1,2 @@
+int32 reglosstype#ApolloperceptioninferenceRegLossType
+int32 targetaxis -1

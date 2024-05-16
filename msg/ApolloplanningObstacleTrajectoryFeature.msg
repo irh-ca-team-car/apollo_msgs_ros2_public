@@ -1,0 +1,2 @@
+apollo_msgs/ApolloplanningPerceptionObstacleFeature[] perceptionobstaclehistory
+apollo_msgs/ApolloplanningTrajectoryPointFeature[] evaluatedtrajectorypoint

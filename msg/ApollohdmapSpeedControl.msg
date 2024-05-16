@@ -1,0 +1,3 @@
+string name
+apollo_msgs/ApollohdmapPolygon polygon
+float64 speedlimit

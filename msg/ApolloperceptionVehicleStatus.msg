@@ -1,0 +1,10 @@
+float32 rollrate
+float32 pitchrate
+float32 yawrate
+float32 velocity
+float32 velocityx
+float32 velocityy
+float32 velocityz
+float64 timets
+float64 timed
+apollo_msgs/ApolloperceptionMotionType motion

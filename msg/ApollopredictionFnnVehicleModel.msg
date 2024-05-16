@@ -1,0 +1,6 @@
+int32 diminput
+apollo_msgs/ApollopredictionVector samplesmean
+apollo_msgs/ApollopredictionVector samplesstd
+int32 numlayer
+apollo_msgs/ApollopredictionLayer[] layer
+int32 dimoutput

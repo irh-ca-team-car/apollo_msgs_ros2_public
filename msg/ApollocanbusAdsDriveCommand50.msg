@@ -1,0 +1,5 @@
+bool driveenable
+int32 autoshiftcommand#ApollocanbusAutoShiftCommandType
+float64 autodrivetorque
+int32 autodrivercmdalivecounter
+int32 autodrivercmdchecksum

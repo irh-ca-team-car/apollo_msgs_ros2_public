@@ -1,0 +1,5 @@
+string lightid
+int32 color#ApolloperceptionTrafficLightColor
+float64 lightstops
+float64 adcstopdeceleration
+bool isstopwallcreated

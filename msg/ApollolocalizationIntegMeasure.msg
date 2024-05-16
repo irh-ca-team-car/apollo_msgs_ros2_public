@@ -1,0 +1,10 @@
+apollo_msgs/ApollocommonHeader apolloheader
+int32 measuretype#ApollolocalizationMeasureType
+int32 frametype#ApollolocalizationFrameType
+apollo_msgs/ApollocommonPoint3D position
+apollo_msgs/ApollocommonPoint3D velocity
+float64 yaw
+int32 zoneid
+bool ishavevariance
+bool isgnssdoubleantenna
+float64[] measurecovar

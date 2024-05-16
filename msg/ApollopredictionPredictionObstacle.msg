@@ -1,0 +1,8 @@
+apollo_msgs/ApolloperceptionPerceptionObstacle perceptionobstacle
+float64 timestamp
+float64 predictedperiod
+apollo_msgs/ApollopredictionTrajectory[] trajectory
+apollo_msgs/ApollopredictionObstacleIntent intent
+apollo_msgs/ApollopredictionObstaclePriority priority
+bool isstatic false
+apollo_msgs/ApollopredictionFeature[] feature

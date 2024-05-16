@@ -1,0 +1,2 @@
+apollo_msgs/ApollocommonPoint2D start
+apollo_msgs/ApollocommonPoint2D end

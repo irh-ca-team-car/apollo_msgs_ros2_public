@@ -1,0 +1,7 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollopredictionPredictionObstacle[] predictionobstacle
+int32 perceptionerrorcode#ApollocommonErrorCode
+float64 starttimestamp
+float64 endtimestamp
+apollo_msgs/ApollopredictionIntent intent
+apollo_msgs/ApollopredictionScenario scenario

@@ -1,0 +1,5 @@
+string dockerimage
+string commitid
+string mode
+apollo_msgs/ApollodataSoftwareInfoconfigs[] configs
+apollo_msgs/ApolloroutingRoutingRequest latestroutingrequest

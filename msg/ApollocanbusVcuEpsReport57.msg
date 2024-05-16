@@ -1,0 +1,9 @@
+bool driveenableresp
+int32 controlmoderesp#ApollocanbusControlModeRespType
+bool vcuepsreport
+float64 vcurealangle
+bool vcurealanglevalid
+bool vcutargetanglevalid
+float64 vcutargetangle
+int32 vcuepsreptalivecounter
+int32 vcuepsreptchecksum

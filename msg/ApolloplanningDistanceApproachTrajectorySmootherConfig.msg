@@ -1,0 +1,25 @@
+float64 weightsteer
+float64 weighta
+float64 weightsteerrate
+float64 weightarate
+float64 weightx
+float64 weighty
+float64 weightphi
+float64 weightv
+float64 weightsteerstitching
+float64 weightastitching
+float64 weightfirstordertime
+float64 weightsecondordertime
+float64 minsafetydistance 0.0
+float64 maxspeedforward 3.0
+float64 maxspeedreverse 2.0
+float64 maxaccelerationforward 2.0
+float64 maxaccelerationreverse 2.0
+float64 mintimesamplescaling 0.1
+float64 maxtimesamplescaling 10.0
+bool usefixtime false
+apollo_msgs/ApolloplanningIpoptSolverConfig ipoptconfig
+bool enableconstraintcheck
+bool enablehandderivative
+bool enablederivativecheck
+bool enableinitialfinalcheck false

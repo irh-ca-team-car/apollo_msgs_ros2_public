@@ -1,0 +1,2 @@
+apollo_msgs/ApolloperceptionfusionCameraDstTypeFusionParam[] cameraparams
+apollo_msgs/ApolloperceptionfusionLidarDstTypeFusionParam[] lidarparams

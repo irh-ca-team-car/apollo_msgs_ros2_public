@@ -1,0 +1,4 @@
+float64 brakepedalactual
+int32 brakeflt2#ApollocanbusBrakeFlt2Type
+int32 brakeflt1#ApollocanbusBrakeFlt1Type
+int32 brakeenstate#ApollocanbusBrakeEnStateType

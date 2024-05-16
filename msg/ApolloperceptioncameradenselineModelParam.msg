@@ -1,0 +1,13 @@
+string modelname "denseline"
+string protofile "caffe.pt"
+string weightfile "caffe.model"
+float32 resizescale 1.0
+uint32 inputoffsety 0
+uint32 inputoffsetx 0
+uint32 cropheight 512
+uint32 cropwidth 512
+uint32 meanb 95
+uint32 meang 99
+uint32 meanr 96
+bool isbgr true
+string modeltype "RTNet"

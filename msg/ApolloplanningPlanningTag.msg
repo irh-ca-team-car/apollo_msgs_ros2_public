@@ -1,0 +1,7 @@
+int32 laneturn#ApollohdmapLaneLaneTurn
+apollo_msgs/ApolloplanningOverlapFeature cleararea
+apollo_msgs/ApolloplanningOverlapFeature crosswalk
+apollo_msgs/ApolloplanningOverlapFeature pncjunction
+apollo_msgs/ApolloplanningOverlapFeature signal
+apollo_msgs/ApolloplanningOverlapFeature stopsign
+apollo_msgs/ApolloplanningOverlapFeature yieldsign

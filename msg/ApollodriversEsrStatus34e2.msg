@@ -1,0 +1,5 @@
+int32 cantxswversionpld
+int32 cantxswversionhost
+int32 cantxhwversion
+int32 cantxinterfaceversion
+int32 cantxserialnum

@@ -1,0 +1,6 @@
+uint32 numclasses
+uint32 backgroundlabelid 0
+float32 overlapthreshold 0.5
+bool evaluatedifficultgt true
+string namesizefile
+apollo_msgs/ApolloperceptioninferenceResizeParameter resizeparam

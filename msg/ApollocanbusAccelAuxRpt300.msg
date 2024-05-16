@@ -1,0 +1,6 @@
+bool userinteractionisvalid
+bool userinteraction
+bool rawpedalforceisvalid
+float64 rawpedalforce
+bool rawpedalposisvalid
+float64 rawpedalpos

@@ -1,0 +1,8 @@
+float64 lanecurvature
+float64 laneheading
+bool caconstructionarea
+bool rightldwavailability
+bool leftldwavailability
+bool reserved1
+float64 yawangle
+float64 pitchangle

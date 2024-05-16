@@ -1,0 +1,2 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollorelativeMapNavigationPath[] navigationpath

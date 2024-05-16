@@ -1,0 +1,7 @@
+string name
+apollo_msgs/ApolloplanningInternalStGraphBoundaryDebug[] boundary
+apollo_msgs/ApollocommonSpeedPoint[] speedlimit
+apollo_msgs/ApollocommonSpeedPoint[] speedprofile
+apollo_msgs/ApolloplanningInternalSTGraphSpeedConstraint speedconstraint
+apollo_msgs/ApolloplanningInternalSTGraphKernelCuiseRef kernelcruiseref
+apollo_msgs/ApolloplanningInternalSTGraphKernelFollowRef kernelfollowref

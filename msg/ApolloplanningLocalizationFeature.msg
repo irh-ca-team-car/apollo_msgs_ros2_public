@@ -1,0 +1,6 @@
+float64 messagetimestampsec
+apollo_msgs/ApollocommonPointENU position
+float64 heading
+apollo_msgs/ApollocommonPoint3D linearvelocity
+apollo_msgs/ApollocommonPoint3D linearacceleration
+apollo_msgs/ApollocommonPoint3D angularvelocity

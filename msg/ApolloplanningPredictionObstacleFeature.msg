@@ -1,0 +1,6 @@
+float64 timestampsec
+float64 predictedperiod
+apollo_msgs/ApollopredictionObstacleIntent intent
+apollo_msgs/ApollopredictionObstaclePriority priority
+bool isstatic false
+apollo_msgs/ApolloplanningPredictionTrajectoryFeature[] trajectory

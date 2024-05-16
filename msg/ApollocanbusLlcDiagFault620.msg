@@ -1,0 +1,9 @@
+int32 llcdisengagecounterbrake
+int32 llcdisengagecountersteer
+int32 llcdisengagecounterthrottle
+int32 llcfbkfaultcounter
+int32 llcdisengagecounterbutton
+int32 llcfbkversionyear
+int32 llcfbkversionmonth
+int32 llcfbkversionday
+int32 llcfbkversionhour

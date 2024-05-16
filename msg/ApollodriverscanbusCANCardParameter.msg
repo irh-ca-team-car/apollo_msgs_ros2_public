@@ -1,0 +1,5 @@
+int32 brand#ApollodriverscanbusCANCardBrand
+int32 type#ApollodriverscanbusCANCardType
+int32 channelid#ApollodriverscanbusCANChannelId
+int32 interface#ApollodriverscanbusCANInterface
+uint32 numports 4

@@ -1,0 +1,2 @@
+float64 torqueoutput
+float64 torqueinput

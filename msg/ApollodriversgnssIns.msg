@@ -1,0 +1,13 @@
+apollo_msgs/ApollocommonHeader apolloheader
+float64 measurementtime
+int32 type#ApollodriversgnssType
+apollo_msgs/ApollocommonPointLLH position
+apollo_msgs/ApollocommonPoint3D eulerangles
+apollo_msgs/ApollocommonPoint3D linearvelocity
+apollo_msgs/ApollocommonPoint3D angularvelocity
+apollo_msgs/ApollocommonPoint3D linearacceleration
+float32[] positioncovariance
+float32[] euleranglescovariance
+float32[] linearvelocitycovariance
+float32[] angularvelocitycovariance
+float32[] linearaccelerationcovariance

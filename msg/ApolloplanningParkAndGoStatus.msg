@@ -1,0 +1,4 @@
+apollo_msgs/ApollocommonPointENU adcinitposition
+float64 adcinitheading
+bool incheckstage
+apollo_msgs/ApollocommonPointENU adcadjustendpose

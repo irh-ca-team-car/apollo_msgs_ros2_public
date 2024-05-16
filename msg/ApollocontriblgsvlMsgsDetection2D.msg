@@ -1,0 +1,6 @@
+apollo_msgs/ApollocommonHeader apolloheader
+uint32 id
+string label
+float64 score
+apollo_msgs/ApollocontriblgsvlMsgsBoundingBox2D bbox
+apollo_msgs/ApollocontriblgsvlMsgsTwist velocity

@@ -1,0 +1,4 @@
+string featblob
+int32 feattype#ApolloperceptioncameratrackingFeatureFeatureType
+apollo_msgs/ApolloperceptioncameratrackingFeatureROIPoolingParam roipoolingparam
+apollo_msgs/ApolloperceptioncameratrackingFeaturePSROIPoolingParam psroipoolingparam

@@ -1,0 +1,12 @@
+string name
+string version
+apollo_msgs/ApolloperceptionKeyValueInt[] integerparams
+apollo_msgs/ApolloperceptionKeyValueString[] stringparams
+apollo_msgs/ApolloperceptionKeyValueDouble[] doubleparams
+apollo_msgs/ApolloperceptionKeyValueFloat[] floatparams
+apollo_msgs/ApolloperceptionKeyValueBool[] boolparams
+apollo_msgs/ApolloperceptionKeyValueArrayInt[] arrayintegerparams
+apollo_msgs/ApolloperceptionKeyValueArrayString[] arraystringparams
+apollo_msgs/ApolloperceptionKeyValueArrayDouble[] arraydoubleparams
+apollo_msgs/ApolloperceptionKeyValueArrayFloat[] arrayfloatparams
+apollo_msgs/ApolloperceptionKeyValueArrayBool[] arrayboolparams

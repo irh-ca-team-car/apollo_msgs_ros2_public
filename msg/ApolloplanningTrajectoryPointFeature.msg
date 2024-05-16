@@ -1,0 +1,2 @@
+float64 timestampsec
+apollo_msgs/ApolloplanningCommonTrajectoryPointFeature trajectorypoint

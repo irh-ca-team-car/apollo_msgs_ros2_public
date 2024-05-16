@@ -1,0 +1,7 @@
+float32 minjaccardoverlap
+float32 maxjaccardoverlap
+float32 minsamplecoverage
+float32 maxsamplecoverage
+float32 minobjectcoverage
+float32 maxobjectcoverage
+int32[] balancetype

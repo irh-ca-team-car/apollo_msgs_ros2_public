@@ -1,0 +1,2 @@
+float64 positionvalue
+float64 speedlimit

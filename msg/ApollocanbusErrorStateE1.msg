@@ -1,0 +1,5 @@
+int32 brakeerrorcode#ApollocanbusBrakeErrorCodeType
+int32 drivenerrorcode#ApollocanbusDrivenErrorCodeType
+int32 steeringerrorcode#ApollocanbusSteeringErrorCodeType
+int32 parkingerrorcode#ApollocanbusParkingErrorCodeType
+int32 gearerrormsg#ApollocanbusGearErrorMsgType

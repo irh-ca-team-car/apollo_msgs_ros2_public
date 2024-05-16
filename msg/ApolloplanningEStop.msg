@@ -1,0 +1,2 @@
+bool isestop
+string reason

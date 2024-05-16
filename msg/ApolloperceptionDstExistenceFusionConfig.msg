@@ -1,0 +1,2 @@
+float64 trackobjectmaxmatchdistance 4.0
+apollo_msgs/ApolloperceptionCameraValidDist[] cameravaliddist

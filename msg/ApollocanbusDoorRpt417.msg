@@ -1,0 +1,14 @@
+bool fueldooropenisvalid
+bool trunkopenisvalid
+bool hoodopenisvalid
+bool rearpassdooropenisvalid
+bool reardriverdooropenisvalid
+bool passdooropenisvalid
+bool driverdooropenisvalid
+bool fueldooropen
+bool trunkopen
+bool hoodopen
+bool rearpassdooropen
+bool reardriverdooropen
+bool passdooropen
+bool driverdooropen

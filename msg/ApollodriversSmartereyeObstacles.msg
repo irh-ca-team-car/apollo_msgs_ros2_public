@@ -1,0 +1,3 @@
+apollo_msgs/ApollocommonHeader apolloheader
+int32 numobstacles
+apollo_msgs/ApollodriversSmartereyeObstaclesoutputObstacles[] outputobstacles

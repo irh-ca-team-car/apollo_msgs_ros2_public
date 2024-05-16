@@ -1,0 +1,2 @@
+apollo_msgs/ApolloroutingRoadSegment[] road
+apollo_msgs/ApolloroutingMeasurement measurement

@@ -1,0 +1,6 @@
+float64 probscale
+float64 maxmatchdistance
+float64 minscore
+bool usemahalanobisdistance false
+bool checktype false
+int32 confidencelevel#Apollov2xftfusionConfidenceLevel

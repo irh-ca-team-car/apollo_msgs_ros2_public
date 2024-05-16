@@ -1,0 +1,2 @@
+float64 vehiclespeed
+int32 vehiclespeedvalid#ApollocanbusVehicleSpeedValidType

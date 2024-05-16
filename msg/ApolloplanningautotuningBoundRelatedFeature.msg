@@ -1,0 +1,2 @@
+float64 bounddistance
+int32 crossablelevel#ApolloplanningautotuningCrossableLevel

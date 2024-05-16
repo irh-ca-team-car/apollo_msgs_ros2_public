@@ -1,0 +1,5 @@
+int32 bcsvehspdvd#ApollocanbusBcsVehspdvdType
+float64 bcsyawrate
+float64 bcsvehspd
+float64 bcsvehlongaccel
+float64 bcsvehlataccel

@@ -1,0 +1,4 @@
+float64 vcutorqposmax
+float64 vcutorqnegmax
+float64 vcutorqact
+int32 vcuengspd

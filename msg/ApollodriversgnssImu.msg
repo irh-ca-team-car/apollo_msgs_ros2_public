@@ -1,0 +1,5 @@
+apollo_msgs/ApollocommonHeader apolloheader
+float64 measurementtime
+float32 measurementspan 0.0
+apollo_msgs/ApollocommonPoint3D linearacceleration
+apollo_msgs/ApollocommonPoint3D angularvelocity

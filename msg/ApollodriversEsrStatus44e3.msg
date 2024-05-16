@@ -1,0 +1,13 @@
+int32 cantxtrucktargetdet#ApollodriversCanTxTruckTargetDetType
+int32 cantxlronlygratinglobedet#ApollodriversCanTxLrOnlyGratingLobeDetType
+int32 cantxsidelobeblockage#ApollodriversCanTxSidelobeBlockageType
+int32 cantxpartialblockage#ApollodriversCanTxPartialBlockageType
+int32 cantxpathidaccstat
+int32 cantxmrlrmode#ApollodriversCanTxMrLrModeType
+float64 cantxautoalignangle
+int32 cantxrollingcount3
+int32 cantxpathidfcwstat
+int32 cantxpathidfcwmove
+int32 cantxpathidcmbbstat
+int32 cantxpathidcmbbmove
+int32 cantxpathidacc

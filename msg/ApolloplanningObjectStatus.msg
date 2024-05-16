@@ -1,0 +1,2 @@
+apollo_msgs/ApolloplanningObjectMotionType motiontype
+apollo_msgs/ApolloplanningObjectDecisionType decisiontype

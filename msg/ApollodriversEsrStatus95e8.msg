@@ -1,0 +1,7 @@
+int32 cantxpathidacc3
+int32 cantxpathidacc2
+float64 cantxfilteredxohpacccipv
+int32 cantxwaterspraytargetid
+int32 cantxserialnum3rdbyte
+float64 cantxsideslipangle
+int32 cantxavgpwrcwblkg

@@ -1,0 +1,4 @@
+int32 brand#LidarParameterLidarBrand
+apollo_msgs/ApollodrivershesaiConfig hesai
+apollo_msgs/ApollodriversrobosenseConfig robosense
+apollo_msgs/ApollodriversvelodyneConfig velodyne

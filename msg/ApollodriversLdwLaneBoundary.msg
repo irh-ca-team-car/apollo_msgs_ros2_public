@@ -1,0 +1,5 @@
+int32 degree
+float64 c0position
+float64 c1headingangle
+float64 c2curvature
+float64 c3curvaturederivative

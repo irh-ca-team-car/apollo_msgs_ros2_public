@@ -1,0 +1,4 @@
+int32 steerenctrl#ApollocanbusSteerEnCtrlType
+int32 steerangletarget
+int32 steeranglespd
+int32 checksum102

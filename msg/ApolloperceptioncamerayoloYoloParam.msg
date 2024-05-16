@@ -1,0 +1,3 @@
+apollo_msgs/ApolloperceptioncamerayoloModelParam modelparam
+apollo_msgs/ApolloperceptioncamerayoloNetworkParam netparam
+apollo_msgs/ApolloperceptioncamerayoloNMSParam nmsparam

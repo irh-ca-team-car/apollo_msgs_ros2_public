@@ -1,0 +1,11 @@
+float64 minnudgedistance 0.2
+float64 maxnudgedistance 1.2
+float64 maxallownudgespeed 16.667
+float64 safedistance 0.2
+float64 nudgeallowtolerance 0.05
+uint32 cyclesnumber 3
+float64 judgediscoeff 2.0
+float64 basisdisvalue 30.0
+float64 lateralvelocityvalue 0.5
+float64 speeddeciderdetectrange 1.0
+uint32 maxkeepnudgecycles 100

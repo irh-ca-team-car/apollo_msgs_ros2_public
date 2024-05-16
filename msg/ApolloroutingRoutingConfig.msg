@@ -1,0 +1,7 @@
+float64 basespeed
+float64 leftturnpenalty
+float64 rightturnpenalty
+float64 uturnpenalty
+float64 changepenalty
+float64 basechanginglength
+apollo_msgs/ApolloroutingTopicConfig topicconfig

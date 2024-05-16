@@ -1,0 +1,4 @@
+int32 epbintidx#ApollocanbusEpbIntidxType
+int32 epbdrvmode#ApollocanbusEpbDrvmodeType
+int32 epbsysst#ApollocanbusEpbSysstType
+int32 epbfaultst#ApollocanbusEpbFaultstType

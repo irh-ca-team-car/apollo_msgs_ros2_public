@@ -1,0 +1,2 @@
+apollo_msgs/ApolloperceptionVehicleStatus[] vehiclestatus
+apollo_msgs/ApollocommonHeader apolloheader

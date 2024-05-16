@@ -1,0 +1,2 @@
+string key
+apollo_msgs/ApollorelativeMapNavigationPath data

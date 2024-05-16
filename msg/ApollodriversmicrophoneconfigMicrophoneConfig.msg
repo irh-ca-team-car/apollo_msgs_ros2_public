@@ -1,0 +1,9 @@
+int32 microphonemodel#ApollodriversmicrophoneconfigMicrophoneModel
+int32 chunk
+float32 samplerate
+float32 recordseconds
+int32 samplewidth
+string channelname
+string frameid
+float32 micdistance
+int32[] channeltype#ApollodriversmicrophoneconfigChannelType

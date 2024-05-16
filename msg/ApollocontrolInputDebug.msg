@@ -1,0 +1,4 @@
+apollo_msgs/ApollocommonHeader localizationheader
+apollo_msgs/ApollocommonHeader canbusheader
+apollo_msgs/ApollocommonHeader trajectoryheader
+apollo_msgs/ApollocommonHeader latestreplantrajectoryheader

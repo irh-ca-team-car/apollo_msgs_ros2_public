@@ -1,0 +1,10 @@
+bool configfaultactive
+bool pacmodsubsystemtimeout
+int32 pacmodsystemenabled#ApollocanbusPacmodSystemEnabledType
+int32 pacmodsystemoverrideactive#ApollocanbusPacmodSystemOverrideActiveType
+bool pacmodsystemfaultactive
+bool vehcantimeout
+bool strcantimeout
+int32 brkcantimeout#ApollocanbusBrkCanTimeoutType
+bool usrcantimeout
+int32 usrcanreaderrors

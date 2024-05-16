@@ -1,0 +1,2 @@
+string routingresponsetopic
+string routingresponsehistorytopic

@@ -1,0 +1,5 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollocanbusChassis chassis
+apollo_msgs/ApolloplanningADCTrajectory trajectory
+apollo_msgs/ApollolocalizationLocalizationEstimate localization
+apollo_msgs/ApollocontrolPadMessage padmsg

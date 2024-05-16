@@ -1,0 +1,3 @@
+bool guardianenable false
+float64 guardiancmdemergencystoppercentage 50
+float64 guardiancmdsoftstoppercentage 25

@@ -1,0 +1,13 @@
+apollo_msgs/ApolloperceptionTrafficLightBox cropbox
+apollo_msgs/ApolloperceptionTrafficLightBox[] box
+int32 signalnum
+int32 validpos
+float64 tsdiffpos
+float64 tsdiffsys
+int32 projecterror
+float64 distancetostopline
+int32 cameraid
+apollo_msgs/ApolloperceptionTrafficLightBox[] croproi
+apollo_msgs/ApolloperceptionTrafficLightBox[] projectedroi
+apollo_msgs/ApolloperceptionTrafficLightBox[] rectifiedroi
+apollo_msgs/ApolloperceptionTrafficLightBox[] debugroi

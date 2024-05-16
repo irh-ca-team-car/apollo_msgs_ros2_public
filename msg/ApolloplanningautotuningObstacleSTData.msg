@@ -1,0 +1,6 @@
+int32 id
+float64 speed
+bool isvirtual
+float64 probability
+apollo_msgs/ApolloplanningautotuningSTPointPair[] polygon
+apollo_msgs/ApolloplanningautotuningSTPointPair[] distribution

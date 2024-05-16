@@ -1,0 +1,6 @@
+apollo_msgs/ApollocommonHeader apolloheader
+string sourcetopic
+int32 errorcode#ApolloperceptioncameraCameraErrorCode
+apollo_msgs/ApolloperceptioncameraCameraCalibrator cameracalibrator
+apollo_msgs/ApolloperceptioncameraCameraLaneLine[] cameralaneline
+apollo_msgs/ApolloperceptioncameraCameraObstacle[] cameraobstacle

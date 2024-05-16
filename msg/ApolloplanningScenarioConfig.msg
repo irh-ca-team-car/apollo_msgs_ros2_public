@@ -1,0 +1,4 @@
+int32 scenariotype#ApolloplanningScenarioType
+apollo_msgs/ApolloplanningScenarioConfigscenarioConfig scenarioconfig
+int32[] stagetype#ApolloplanningStageType
+apollo_msgs/ApolloplanningStageConfig[] stageconfig

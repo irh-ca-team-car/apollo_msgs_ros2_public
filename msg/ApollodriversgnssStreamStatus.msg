@@ -1,0 +1,4 @@
+apollo_msgs/ApollocommonHeader apolloheader
+int32 insstreamtype#ApollodriversgnssType
+int32 rtkstreamintype#ApollodriversgnssType
+int32 rtkstreamouttype#ApollodriversgnssType

@@ -1,0 +1,6 @@
+float64 messagetimestampsec
+float32 speedmps
+float32 throttlepercentage
+float32 brakepercentage
+float32 steeringpercentage
+int32 gearlocation#ApollocanbusChassisGearPosition

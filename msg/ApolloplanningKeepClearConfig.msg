@@ -1,0 +1,4 @@
+bool enablekeepclearzone true
+bool enablejunction true
+float64 minpasssdistance 2.0
+float64 alignwithtrafficsigntolerance

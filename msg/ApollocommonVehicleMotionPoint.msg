@@ -1,0 +1,2 @@
+apollo_msgs/ApollocommonTrajectoryPoint trajectorypoint
+float64 steer

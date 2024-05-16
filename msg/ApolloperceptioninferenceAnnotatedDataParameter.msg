@@ -1,0 +1,4 @@
+apollo_msgs/ApolloperceptioninferenceBatchSampler[] batchsampler
+string labelmapfile
+int32 annotype#AnnotatedDatumAnnotationType
+int32 numclasses 3

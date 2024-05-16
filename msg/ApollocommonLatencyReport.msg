@@ -1,0 +1,3 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollocommonLatencyTrack e2eslatency
+apollo_msgs/ApollocommonLatencyTrack moduleslatency

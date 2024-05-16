@@ -1,0 +1,3 @@
+apollo_msgs/ApolloplanningautotuningObstacleSTData[] obstaclestdata
+apollo_msgs/ApolloplanningautotuningObstacleSTData[] obstaclestnudge
+apollo_msgs/ApolloplanningautotuningObstacleSTData[] obstaclestsidepass

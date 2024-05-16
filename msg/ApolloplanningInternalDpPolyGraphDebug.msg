@@ -1,0 +1,2 @@
+apollo_msgs/ApolloplanningInternalSampleLayerDebug[] samplelayer
+apollo_msgs/ApollocommonSLPoint[] mincostpoint

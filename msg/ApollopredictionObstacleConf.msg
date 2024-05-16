@@ -1,0 +1,5 @@
+int32 obstacletype#ApolloperceptionPerceptionObstacleType
+int32 obstaclestatus#ApollopredictionObstacleStatus
+int32 prioritytype#ObstaclePriorityPriority
+int32 evaluatortype#ApollopredictionEvaluatorType
+int32 predictortype#ApollopredictionPredictorType

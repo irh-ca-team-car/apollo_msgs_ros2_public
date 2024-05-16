@@ -1,0 +1,2 @@
+int32 scenariotype#ScenarioConfigScenarioType
+int32 stagetype#ScenarioConfigStageType

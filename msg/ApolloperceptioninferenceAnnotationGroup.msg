@@ -1,0 +1,2 @@
+int32 grouplabel
+apollo_msgs/ApolloperceptioninferenceAnnotation[] annotation

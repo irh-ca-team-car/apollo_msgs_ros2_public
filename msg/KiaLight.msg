@@ -1,0 +1,2 @@
+bool isbrakelampon
+int32 turnlighttype

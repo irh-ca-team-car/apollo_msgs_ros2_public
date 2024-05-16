@@ -1,0 +1,5 @@
+bool ignoreoverrides
+bool enable
+bool clearoverride
+int32 wipercmd#ApollocanbusWiperCmdType
+bool clearfaults

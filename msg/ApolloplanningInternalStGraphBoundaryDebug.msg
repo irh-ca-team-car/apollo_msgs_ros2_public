@@ -1,0 +1,3 @@
+string name
+apollo_msgs/ApollocommonSpeedPoint[] point
+int32 type#ApolloplanningInternalStBoundaryType

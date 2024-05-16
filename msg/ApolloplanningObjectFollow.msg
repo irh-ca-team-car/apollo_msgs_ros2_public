@@ -1,0 +1,3 @@
+float64 distances
+apollo_msgs/ApollocommonPointENU fencepoint
+float64 fenceheading

@@ -1,0 +1,8 @@
+int32 cantxsupply10va2d
+int32 cantxtemp2a2d
+int32 cantxtemp1a2d
+int32 cantxswbatta2d
+int32 cantxsupply5vdxa2d
+int32 cantxsupply5vaa2d
+int32 cantxsupply3p3va2d
+int32 cantxignpa2d

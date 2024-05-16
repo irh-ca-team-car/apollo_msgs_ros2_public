@@ -1,0 +1,13 @@
+bool publishifhaslidar true
+bool publishifhasradar true
+bool publishifhascamera true
+bool usecamera3d true
+float64 minradarconfidentdistance
+float64 maxradarconfidentangle
+float64 mincamerapublishdistance
+float64 invisibleperiodthreshold
+float64 toicthreshold
+bool usetracktimepubstrategy
+int32 pubtracktimethresh
+float64 existencethreshold
+float64 radarexistencethreshold

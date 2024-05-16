@@ -1,0 +1,3 @@
+apollo_msgs/ApollopredictionTensorParameter[] features
+float32 probability
+float32 distance

@@ -1,0 +1,4 @@
+int32 type#ApolloplanningType
+apollo_msgs/ApolloplanningTargetLane[] defaultlane
+apollo_msgs/ApolloplanningMainStop defaultlanestop
+apollo_msgs/ApolloplanningMainStop targetlanestop

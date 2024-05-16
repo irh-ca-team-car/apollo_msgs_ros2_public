@@ -1,0 +1,2 @@
+apollo_msgs/ApollopredictionPredictionPathPoint pathpoint
+float64 timestamp

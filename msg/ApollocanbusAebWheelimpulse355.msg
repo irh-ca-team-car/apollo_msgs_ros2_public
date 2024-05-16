@@ -1,0 +1,10 @@
+float64 flimpulse
+bool flimpulsevalid
+float64 frimpulse
+bool frimpulsevalid
+float64 rlimpulse
+bool rlimpulsevalid
+float64 rrimpulse
+bool rrimpulsevalid
+float64 alivecounter
+float64 checksum

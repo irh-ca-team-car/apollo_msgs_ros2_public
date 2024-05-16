@@ -1,0 +1,2 @@
+int32 code#ApollohdmapErrorCode
+float64 progress

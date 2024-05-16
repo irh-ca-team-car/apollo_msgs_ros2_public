@@ -1,0 +1,15 @@
+float32 scale 1
+bool mirror false
+uint32 cropsize 0
+uint32 croph 0
+uint32 cropw 0
+string meanfile
+float32[] meanvalue
+bool forcecolor false
+bool forcegray false
+apollo_msgs/ApolloperceptioninferenceResizeParameter resizeparam
+apollo_msgs/ApolloperceptioninferenceNoiseParameter noiseparam
+apollo_msgs/ApolloperceptioninferenceDistortionParameter distortparam
+apollo_msgs/ApolloperceptioninferenceExpansionParameter expandparam
+float32 jitter
+apollo_msgs/ApolloperceptioninferenceEmitConstraint emitconstraint

@@ -1,0 +1,6 @@
+int32 vehiclemodestate#ApollocanbusVehicleModeStateType
+int32 frontcrashstate#ApollocanbusFrontcrashStateType
+int32 backcrashstate#ApollocanbusBackcrashStateType
+int32 aebstate#ApollocanbusAebStateType
+float64 acc
+float64 speed

@@ -1,0 +1,7 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollolocalizationPose pose
+apollo_msgs/ApollolocalizationUncertainty uncertainty
+float64 measurementtime
+apollo_msgs/ApollocommonTrajectoryPoint[] trajectorypoint
+apollo_msgs/ApollolocalizationMsfStatus msfstatus
+apollo_msgs/ApollolocalizationMsfSensorMsgStatus sensorstatus

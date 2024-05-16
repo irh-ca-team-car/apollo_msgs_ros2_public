@@ -1,0 +1,7 @@
+int32 flwheeldirection#ApollocanbusFlwheeldirectionType
+float64 frwheelspd
+int32 rlwheeldrivedirection#ApollocanbusRlwheeldrivedirectionType
+float64 rlwheelspd
+int32 rrwheeldirection#ApollocanbusRrwheeldirectionType
+float64 rrwheelspd
+float64 vehiclespd

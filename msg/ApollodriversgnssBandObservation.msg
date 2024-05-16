@@ -1,0 +1,8 @@
+int32 bandid#ApollodriversgnssGnssBandID
+float64 frequencyvalue
+int32 pseudotype#ApollodriversgnssPseudoType
+float64 pseudorange
+float64 carrierphase
+uint32 losslockindex
+float64 doppler
+float32 snr

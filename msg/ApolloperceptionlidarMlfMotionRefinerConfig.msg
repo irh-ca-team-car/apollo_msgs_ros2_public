@@ -1,0 +1,2 @@
+float64 clapingaccelerationthreshold 10
+float64 clapingspeedthreshold 1.0

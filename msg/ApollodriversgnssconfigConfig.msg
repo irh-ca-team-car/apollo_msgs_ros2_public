@@ -1,0 +1,13 @@
+apollo_msgs/ApollodriversgnssconfigStream data
+apollo_msgs/ApollodriversgnssconfigStream command
+apollo_msgs/ApollodriversgnssconfigStream rtkfrom
+apollo_msgs/ApollodriversgnssconfigStream rtkto
+apollo_msgs/Bytes[] logincommands
+apollo_msgs/Bytes[] logoutcommands
+apollo_msgs/ApollodriversgnssconfigConfigdeviceConfig deviceconfig
+int32 rtksolutiontype#ApollodriversgnssconfigRtkSolutionType
+int32 imutype#ApollodriversgnssconfigImuType
+string proj4text
+apollo_msgs/ApollodriversgnssconfigTF tf
+string wheelparameters
+string gpsbinfolder

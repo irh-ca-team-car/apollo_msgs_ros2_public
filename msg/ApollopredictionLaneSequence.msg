@@ -1,0 +1,23 @@
+int32 lanesequenceid
+apollo_msgs/ApollopredictionLaneSegment[] lanesegment
+int32 adclanesegmentidx 0
+apollo_msgs/ApollocommonPathPoint[] pathpoint
+int32 lanetype#ApollohdmapLaneLaneType
+float64 lanes
+float64 lanel
+bool vehicleonlane
+apollo_msgs/ApollopredictionNearbyObstacle[] nearbyobstacle
+apollo_msgs/ApollopredictionStopSign stopsign
+int32 rightofway
+apollo_msgs/ApollopredictionLaneSequenceFeatures features
+int32 label 0
+float64 probability 0.0
+float64 acceleration 0.0
+float64 timetolanecenter
+float64 timetolaneedge
+int32 behaviortype#ApollopredictionBehaviorType
+apollo_msgs/ApollopredictionLanePoint[] currlanepoint
+apollo_msgs/ApollopredictionLanePoint[] leftneighborpoint
+apollo_msgs/ApollopredictionLanePoint[] rightneighborpoint
+apollo_msgs/ApollopredictionNearbyObstacle[] leftnearbyobstacle
+apollo_msgs/ApollopredictionNearbyObstacle[] rightnearbyobstacle

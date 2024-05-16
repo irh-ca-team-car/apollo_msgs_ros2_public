@@ -1,0 +1,4 @@
+int32 brand#ApollocommonVehicleBrand
+float64 maxenginepedal
+int32 maxenablefailattempt
+int32 drivingmode#ChassisDrivingMode

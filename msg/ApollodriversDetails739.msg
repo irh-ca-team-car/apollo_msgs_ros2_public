@@ -1,0 +1,13 @@
+int32 obstacleid
+float64 obstacleposx
+int32 reseved2
+float64 obstacleposy
+int32 blinkerinfo
+int32 cutinandout
+float64 obstaclerelvelx
+int32 obstacletype
+bool reserved3
+int32 obstaclestatus
+bool obstaclebrakelights
+int32 reserved4
+int32 obstaclevalid

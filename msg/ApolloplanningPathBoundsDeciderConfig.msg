@@ -1,0 +1,8 @@
+bool islaneborrowing
+bool ispullover
+float64 pulloverdestinationtoadcbuffer 25.0
+float64 pulloverdestinationtopathendbuffer 10.0
+float64 pulloverroadedgebuffer 0.15
+float64 pulloverapproachlondistanceadjustfactor
+float64 adcbuffercoeff 1.0
+bool isextendlaneboundstoincludeadc true

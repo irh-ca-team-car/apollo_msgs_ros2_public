@@ -1,0 +1,24 @@
+string frameid
+string scanchannel
+float64 rpm 600.0
+int32 model#ApollodriversvelodyneModel
+int32 mode#ApollodriversvelodyneMode
+string pcap
+int32 prefixangle
+int32 firingdataport
+int32 positioningdataport
+bool usesensorsync
+float64 maxrange
+float64 minrange
+float64 maxangle
+float64 minangle
+float64 viewdirection
+float64 viewwidth
+bool calibrationonline
+string calibrationfile
+bool organized
+string convertchannelname
+int32 npackets
+bool usegpstime
+bool usepollsync
+bool ismainframe

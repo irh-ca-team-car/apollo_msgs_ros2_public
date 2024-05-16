@@ -1,0 +1,22 @@
+int32 loclosstype#ApolloperceptioninferenceLocLossType
+int32 conflosstype#ApolloperceptioninferenceConfLossType
+float32 locweight 1.0
+uint32 numclasses
+bool sharelocation true
+int32 matchtype#ApolloperceptioninferenceMatchType
+float32 overlapthreshold 0.5
+bool usepriorformatching true
+uint32 backgroundlabelid 0
+bool usedifficultgt true
+bool donegmining
+float32 negposratio 3.0
+float32 negoverlap 0.5
+int32 codetype#PriorBoxParameterCodeType
+bool encodevarianceintarget false
+bool mapobjecttoagnostic false
+bool ignorecrossboundarybbox false
+bool bpinside false
+int32 miningtype#ApolloperceptioninferenceMiningType
+apollo_msgs/ApolloperceptioninferenceNonMaximumSuppressionParameter nmsparam
+int32 samplesize 64
+bool usepriorfornms false

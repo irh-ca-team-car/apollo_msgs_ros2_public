@@ -1,0 +1,3 @@
+bool cantxtrackrollingcount2
+int32 cantxtrackcanidgroup
+apollo_msgs/ApollodriversMotionpower[] cantxtrackmotionpower

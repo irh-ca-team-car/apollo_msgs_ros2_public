@@ -1,0 +1,2 @@
+string mainsensorname
+string outputchannelname

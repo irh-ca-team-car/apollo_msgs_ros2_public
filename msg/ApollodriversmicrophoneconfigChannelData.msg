@@ -1,0 +1,2 @@
+int32 channeltype#ApollodriversmicrophoneconfigChannelType
+apollo_msgs/Bytes data

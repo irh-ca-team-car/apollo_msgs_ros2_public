@@ -1,0 +1,12 @@
+string sensorid
+int32 id
+apollo_msgs/ApollocommonPoint3D position
+float64 theta
+float64 length
+float64 width
+float64 height
+apollo_msgs/ApollocommonPoint3D velocity
+int32 type#PerceptionObstacleType
+int32 subtype#PerceptionObstacleSubType
+float64 timestamp
+apollo_msgs/ApolloperceptionBBox2D box

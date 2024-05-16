@@ -1,0 +1,12 @@
+bool useadaptive true
+bool usebreakdown true
+bool useconvergenceboostup true
+float64 initvelocityvariance 5.0
+float64 initaccelerationvariance 10.0
+float64 measuredvelocityvariance 0.4
+float64 predictvariancepersqrsec 10.0
+uint32 boostuphistorysizeminimum 3
+uint32 boostuphistorysizemaximum 6
+float64 convergedconfidenceminimum 0.5
+float64 noisemaximum 0.1
+float64 trustorientationrange 40

@@ -1,0 +1,15 @@
+float64 timestamp
+string imageurl
+apollo_msgs/Vector3 position
+apollo_msgs/Quaternion heading
+float64 fx
+float64 fy
+float64 cx
+float64 cy
+float64 skew
+float64 k1
+float64 k2
+float64 k3
+float64 p1
+float64 p2
+string channel

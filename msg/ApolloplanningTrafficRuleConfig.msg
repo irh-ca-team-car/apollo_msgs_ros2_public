@@ -1,0 +1,3 @@
+int32 ruleid#ApolloplanningRuleId
+bool enabled
+apollo_msgs/ApolloplanningTrafficRuleConfigconfig config

@@ -1,0 +1,5 @@
+int32 layerinputdim
+int32 layeroutputdim
+apollo_msgs/Matrix layerinputweight
+apollo_msgs/Vector layerbias
+int32 layeractivationfunc#ActivationFunc

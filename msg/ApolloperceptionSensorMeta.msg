@@ -1,0 +1,3 @@
+string name
+int32 type#ApolloperceptionSensorType
+int32 orientation#ApolloperceptionSensorOrientation

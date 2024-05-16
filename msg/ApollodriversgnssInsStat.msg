@@ -1,0 +1,3 @@
+apollo_msgs/ApollocommonHeader apolloheader
+uint32 insstatus
+uint32 postype

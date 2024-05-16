@@ -1,0 +1,5 @@
+int32 parkingenablestate#ApollocanbusParkingEnableStateType
+int32 steeringenablestate#ApollocanbusSteeringEnableStateType
+int32 gearenableactual#ApollocanbusGearEnableActualType
+int32 drivenenablestate#ApollocanbusDrivenEnableStateType
+int32 brakeenablestate#ApollocanbusBrakeEnableStateType

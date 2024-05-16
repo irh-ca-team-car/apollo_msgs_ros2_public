@@ -1,0 +1,9 @@
+bool isrsssafe
+float64 curdistlon
+float64 rsssafedistlon
+float64 acclonrangeminimum
+float64 acclonrangemaximum
+float64 acclatleftrangeminimum
+float64 acclatleftrangemaximum
+float64 acclatrightrangeminimum
+float64 acclatrightrangemaximum

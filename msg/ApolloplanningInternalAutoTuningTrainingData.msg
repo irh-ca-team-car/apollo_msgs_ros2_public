@@ -1,0 +1,2 @@
+apollo_msgs/ApolloplanningInternalCostComponents teachercomponent
+apollo_msgs/ApolloplanningInternalCostComponents studentcomponent

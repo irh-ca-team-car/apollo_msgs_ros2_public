@@ -1,0 +1,7 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollocontrolLocalView localview
+apollo_msgs/ApollocommonEngageAdvice engageadvice
+apollo_msgs/ApollocontrolInputDebug inputdebug
+bool receivedpadmsg false
+bool estop false
+string estopreason

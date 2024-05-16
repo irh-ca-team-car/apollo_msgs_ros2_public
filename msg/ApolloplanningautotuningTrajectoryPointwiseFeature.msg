@@ -1,0 +1,2 @@
+apollo_msgs/ApolloplanningautotuningPathPointwiseFeature pathinputfeature
+apollo_msgs/ApolloplanningautotuningSpeedPointwiseFeature speedinputfeature

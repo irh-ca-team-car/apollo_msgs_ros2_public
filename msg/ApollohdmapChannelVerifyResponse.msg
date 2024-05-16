@@ -1,0 +1,2 @@
+int32 code#ApollohdmapErrorCode
+apollo_msgs/ApollohdmapVerifyResult result

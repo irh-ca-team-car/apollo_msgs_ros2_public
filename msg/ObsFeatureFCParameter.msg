@@ -1,0 +1,4 @@
+apollo_msgs/DenseParameter linear0
+apollo_msgs/ActivationParameter activation1
+apollo_msgs/DenseParameter linear3
+apollo_msgs/ActivationParameter activation4

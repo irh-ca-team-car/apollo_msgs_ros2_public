@@ -1,0 +1,5 @@
+int32 componenttype#ApollocanbusComponentTypeType
+int32 componentfunc#ApollocanbusComponentFuncType
+int32 counter
+int32 complement
+bool configfault

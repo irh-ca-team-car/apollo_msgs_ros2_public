@@ -1,0 +1,12 @@
+string name
+float64[] sampleds
+float64[] staticobstaclelowerbound
+float64[] dynamicobstaclelowerbound
+float64[] staticobstacleupperbound
+float64[] dynamicobstacleupperbound
+float64[] maplowerbound
+float64[] mapupperbound
+apollo_msgs/ApollocommonSLPoint[] slpath
+float64[] aggregatedboundarys
+float64[] aggregatedboundarylow
+float64[] aggregatedboundaryhigh

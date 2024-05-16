@@ -1,0 +1,3 @@
+apollo_msgs/ApolloplanningMainDecision maindecision
+apollo_msgs/ApolloplanningObjectDecisions objectdecision
+apollo_msgs/ApollocommonVehicleSignal vehiclesignal

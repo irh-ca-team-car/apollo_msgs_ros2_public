@@ -1,0 +1,2 @@
+float32 pitchangle
+float32 cameraheight

@@ -1,0 +1,4 @@
+float64 openspacepredictiontimeperiod 5.0
+float64 openspacefallbackcollisiondistance 5.0
+float64 openspacefallbackstopdistance 2.0
+float64 openspacefallbackcollisiontimebuffer 10.0

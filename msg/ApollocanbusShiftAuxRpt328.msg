@@ -1,0 +1,8 @@
+bool speedinterlockactiveisvalid
+bool speedinterlockactive
+bool brakeinterlockactiveisvalid
+bool brakeinterlockactive
+bool stayinneutralmodeisvalid
+bool stayinneutralmode
+bool betweengearsisvalid
+bool betweengears

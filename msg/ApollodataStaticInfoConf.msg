@@ -1,0 +1,2 @@
+string[] hardwareconfigs
+string[] softwareconfigs

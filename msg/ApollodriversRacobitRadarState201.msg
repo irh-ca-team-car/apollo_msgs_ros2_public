@@ -1,0 +1,6 @@
+uint32 maxdistance
+uint32 radarpower
+int32 outputtype#ApollodriversracobitRadarOutputType
+int32 rcsthreshold#ApollodriversracobitRadarRcsThreshold
+bool sendquality
+bool sendextinfo

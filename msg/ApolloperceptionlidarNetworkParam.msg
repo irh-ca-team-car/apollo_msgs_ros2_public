@@ -1,0 +1,7 @@
+string instanceptblob "instance_pt"
+string categoryptblob "category_score"
+string confidenceptblob "confidence_score"
+string heightptblob "height_pt"
+string classptblob "class_score"
+string headingptblob "heading_pt"
+string featureblob "data"

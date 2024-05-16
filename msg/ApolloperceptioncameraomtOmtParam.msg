@@ -1,0 +1,17 @@
+int32 imgcapability 7
+int32 lostage 2
+int32 reserveage 3
+apollo_msgs/ApolloperceptioncameraomtWeightParam weightsamecamera
+apollo_msgs/ApolloperceptioncameraomtWeightParam weightdiffcamera
+float32 border 30
+float32 targetthresh 0.65
+bool correcttype false
+apollo_msgs/ApolloperceptioncameraomtTargetParam targetparam
+float32 mininitheightratio 17
+float32 targetcombineiouthreshold 0.5
+float32 fusiontargetthresh 0.45
+float32 imagedisplacement 50
+float32 abnormalmovement 0.3
+float64 sametseps 0.05
+apollo_msgs/ApolloperceptioncameraomtReferenceParam reference
+string typechangecost

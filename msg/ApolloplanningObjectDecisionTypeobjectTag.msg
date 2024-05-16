@@ -1,0 +1,8 @@
+int32 ignore#ApolloplanningObjectIgnore
+apollo_msgs/ApolloplanningObjectStop stop
+apollo_msgs/ApolloplanningObjectFollow follow
+apollo_msgs/ApolloplanningObjectYield yieldd
+apollo_msgs/ApolloplanningObjectOvertake overtake
+apollo_msgs/ApolloplanningObjectNudge nudge
+int32 avoid#ApolloplanningObjectAvoid
+apollo_msgs/ApolloplanningObjectSidePass sidepass

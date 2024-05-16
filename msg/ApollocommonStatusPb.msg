@@ -1,0 +1,2 @@
+int32 errorcode#ApollocommonErrorCode
+string msg

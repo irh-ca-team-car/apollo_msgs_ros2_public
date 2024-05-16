@@ -1,0 +1,10 @@
+int32 bcsaebavailable#ApollocanbusBcsAebavailableType
+int32 bcscddavailable#ApollocanbusBcsCddavailableType
+float64 bcsbrkpedact
+int32 bcsintidx#ApollocanbusBcsIntidxType
+int32 bcsvdcfaultst#ApollocanbusBcsVdcfaultstType
+int32 bcsvdcactivest#ApollocanbusBcsVdcactivestType
+int32 bcsabsfaultst#ApollocanbusBcsAbsfaultstType
+int32 bcsabsactivest#ApollocanbusBcsAbsactivestType
+int32 bcsfaultst#ApollocanbusBcsFaultstType
+int32 bcsdrvmode#ApollocanbusBcsDrvmodeType

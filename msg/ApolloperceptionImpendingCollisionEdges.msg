@@ -1,0 +1,2 @@
+apollo_msgs/ApolloperceptionImpendingCollisionEdge[] impendingcollisionedge
+apollo_msgs/ApollocommonHeader apolloheader

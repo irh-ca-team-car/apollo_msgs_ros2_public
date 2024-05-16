@@ -1,0 +1,2 @@
+apollo_msgs/ApolloperceptioncameradarkSCNNModelParam modelparam
+apollo_msgs/ApolloperceptioncameradarkSCNNNetworkParam netparam

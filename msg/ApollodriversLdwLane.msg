@@ -1,0 +1,5 @@
+int32 width
+int32 quality
+int32 style#ApollodriversLdwLaneStyle
+apollo_msgs/ApollodriversLdwLaneBoundary leftboundary
+apollo_msgs/ApollodriversLdwLaneBoundary rightboundary

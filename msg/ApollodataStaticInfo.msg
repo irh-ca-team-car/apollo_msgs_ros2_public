@@ -1,0 +1,5 @@
+apollo_msgs/ApollodataVehicleInfo vehicle
+apollo_msgs/ApollodataEnvironmentInfo environment
+apollo_msgs/ApollodataHardwareInfo hardware
+apollo_msgs/ApollodataSoftwareInfo software
+apollo_msgs/ApollodataUserInfo user

@@ -1,0 +1,10 @@
+float64 startpulloverscenariodistance
+float64 pullovermindistancebuffer 10.0
+float64 maxdistancestopsearch 25.0
+float64 maxserrortoendpoint 0.2
+float64 maxlerrortoendpoint 0.5
+float64 maxthetaerrortoendpoint 0.2
+float64 maxdistanceerrortoendpoint 0.2
+float64 passdestinationthreshold 10.0
+float64 maxvalidstopdistance 1.0
+float64 sdistancetostopforopenspaceparking

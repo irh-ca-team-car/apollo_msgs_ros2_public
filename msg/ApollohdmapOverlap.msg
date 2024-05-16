@@ -1,0 +1,3 @@
+apollo_msgs/ApollohdmapId id
+apollo_msgs/ApollohdmapObjectOverlapInfo[] object
+apollo_msgs/ApollohdmapRegionOverlapInfo[] regionoverlap

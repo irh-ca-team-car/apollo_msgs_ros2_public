@@ -1,0 +1,2 @@
+apollo_msgs/ApollocommonPath path
+uint32 pathpriority

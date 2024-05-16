@@ -1,0 +1,5 @@
+int32 layerinputdim
+int32 layeroutputdim
+apollo_msgs/ApollopredictionMatrix layerinputweight
+apollo_msgs/ApollopredictionVector layerbias
+int32 layeractivationfunc#ApollopredictionActivationFunc

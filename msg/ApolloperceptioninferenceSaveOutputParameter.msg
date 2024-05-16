@@ -1,0 +1,7 @@
+string outputdirectory
+string outputnameprefix
+string outputformat
+string labelmapfile
+string namesizefile
+uint32 numtestimage
+apollo_msgs/ApolloperceptioninferenceResizeParameter resizeparam

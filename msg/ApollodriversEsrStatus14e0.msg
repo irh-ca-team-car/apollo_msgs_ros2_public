@@ -1,0 +1,7 @@
+float64 cantxdsptimestamp
+bool cantxcommerror
+float64 cantxyawratecalc
+float64 cantxvehiclespeedcalc
+int32 cantxscanindex
+int32 cantxrollingcount1
+int32 cantxradiuscurvaturecalc

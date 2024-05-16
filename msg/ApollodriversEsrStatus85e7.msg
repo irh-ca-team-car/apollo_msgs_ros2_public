@@ -1,0 +1,8 @@
+int32 cantxhistoryfault7
+int32 cantxhistoryfault6
+int32 cantxhistoryfault5
+int32 cantxhistoryfault4
+int32 cantxhistoryfault3
+int32 cantxhistoryfault2
+int32 cantxhistoryfault1
+int32 cantxhistoryfault0

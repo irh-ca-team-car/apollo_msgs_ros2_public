@@ -1,0 +1,6 @@
+int32 id
+string name
+apollo_msgs/ApollopredictionLayerParameter[] layers
+apollo_msgs/ApollopredictionVerificationSample[] verificationsamples
+apollo_msgs/ApollopredictionPerformance performance
+float32 timedumped

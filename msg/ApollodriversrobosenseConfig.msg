@@ -1,0 +1,15 @@
+string model
+string frameid
+string ip
+uint32 msopport
+uint32 difopport
+uint32 echomode6
+uint32 startangle
+uint32 endangle
+uint32 mindistance
+uint32 maxdistance
+uint32 cutangle
+string pointcloudchannel
+string scanchannel
+string calibrationfile15
+bool uselidarclock

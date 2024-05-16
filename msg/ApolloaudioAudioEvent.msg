@@ -1,0 +1,7 @@
+apollo_msgs/ApollocommonHeader apolloheader
+int32 id
+int32 movingresult#ApolloaudioMovingResult
+int32 audiotype#ApolloaudioAudioType
+bool sirenison
+int32 audiodirection#ApolloaudioAudioDirection
+apollo_msgs/ApollolocalizationPose pose

@@ -1,0 +1,14 @@
+apollo_msgs/ApollocanbusAdsShifter115 adsshifter115
+apollo_msgs/ApollocanbusAdsEps113 adseps113
+apollo_msgs/ApollocanbusStatus310 status310
+apollo_msgs/ApollocanbusVinResp3393 vinresp3393
+apollo_msgs/ApollocanbusVinResp2392 vinresp2392
+apollo_msgs/ApollocanbusVinResp1391 vinresp1391
+apollo_msgs/ApollocanbusAdsReqVin390 adsreqvin390
+apollo_msgs/ApollocanbusAds1111 ads1111
+apollo_msgs/ApollocanbusFbs2240 fbs2240
+apollo_msgs/ApollocanbusFbs1243 fbs1243
+apollo_msgs/ApollocanbusFbs4235 fbs4235
+apollo_msgs/ApollocanbusFail241 fail241
+apollo_msgs/ApollocanbusFbs3237 fbs3237
+apollo_msgs/ApollocanbusAds338e ads338e

@@ -1,0 +1,9 @@
+int32 color#Apollov2xSingleTrafficLightColor
+int32 trafficlighttype
+string id
+int32 colorremainingtimes
+bool rightturnlight
+int32 nextcolor#Apollov2xSingleTrafficLightColor
+float64 nextremainingtime
+int32 next2ndcolor#Apollov2xSingleTrafficLightColor
+float64 next2ndremainingtime

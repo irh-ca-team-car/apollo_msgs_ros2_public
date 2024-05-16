@@ -1,0 +1,14 @@
+apollo_msgs/ApollohdmapHeader apolloheader
+apollo_msgs/ApollohdmapCrosswalk[] crosswalk
+apollo_msgs/ApollohdmapJunction[] junction
+apollo_msgs/ApollohdmapLane[] lane
+apollo_msgs/ApollohdmapStopSign[] stopsign
+apollo_msgs/ApollohdmapSignal[] signal
+apollo_msgs/ApollohdmapYieldSign[] yieldd
+apollo_msgs/ApollohdmapOverlap[] overlap
+apollo_msgs/ApollohdmapClearArea[] cleararea
+apollo_msgs/ApollohdmapSpeedBump[] speedbump
+apollo_msgs/ApollohdmapRoad[] road
+apollo_msgs/ApollohdmapParkingSpace[] parkingspace
+apollo_msgs/ApollohdmapPNCJunction[] pncjunction
+apollo_msgs/ApollohdmapRSU[] rsu

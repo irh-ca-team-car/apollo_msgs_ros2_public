@@ -1,0 +1,4 @@
+apollo_msgs/ApolloperceptioncameraappDetectorParam lanedetectorparam
+apollo_msgs/ApolloperceptioncameraappPluginParam lanepostprocessorparam
+apollo_msgs/ApolloperceptioncameraappPluginParam lanetrackerparam
+int32 gpuid

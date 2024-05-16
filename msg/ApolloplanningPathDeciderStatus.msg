@@ -1,0 +1,5 @@
+int32 frontstaticobstaclecyclecounter 0
+int32 abletouseselflanecounter 0
+bool isinpathlaneborrowscenario false
+string frontstaticobstacleid ""
+int32[] decidedsidepassdirection#ApolloplanningLaneBorrowDirection

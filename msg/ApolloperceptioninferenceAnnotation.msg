@@ -1,0 +1,5 @@
+int32 instanceid 0
+apollo_msgs/ApolloperceptioninferenceNormalizedBBox bbox
+apollo_msgs/ApolloperceptioninferenceBBox3D bbox3d
+apollo_msgs/ApolloperceptioninferenceNormalizedBBox frontbbox
+apollo_msgs/ApolloperceptioninferenceNormalizedBBox rearbbox

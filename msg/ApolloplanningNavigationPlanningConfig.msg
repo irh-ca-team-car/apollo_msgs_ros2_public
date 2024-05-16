@@ -1,0 +1,2 @@
+int32[] plannertype#ApolloplanningPlannerType
+apollo_msgs/ApolloplanningPlannerNaviConfig plannernaviconfig

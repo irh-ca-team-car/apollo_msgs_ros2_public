@@ -1,0 +1,6 @@
+int32 mracmodelorder
+float64[] mracreferencestate
+float64[] mracstateerror
+apollo_msgs/ApollocontrolMracAdaptiveGain mracadaptivegain
+int32 mracreferencesaturationstatus
+int32 mraccontrolsaturationstatus

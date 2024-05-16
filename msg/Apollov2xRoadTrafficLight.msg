@@ -1,0 +1,4 @@
+float64 gpsxm
+float64 gpsym
+apollo_msgs/Apollov2xSingleTrafficLight[] singletrafficlight
+int32 roadattribute#ApollocommonDirection

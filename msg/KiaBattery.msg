@@ -1,0 +1,7 @@
+bool preheat_timer1_enabled
+bool preheat_timer2_enabled
+float32 battery_voltage
+float32 battery_watt
+float32 battery_current
+float32 battery_capacity
+float32 battery_soc_wh

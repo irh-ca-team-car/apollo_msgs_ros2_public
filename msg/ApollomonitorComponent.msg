@@ -1,0 +1,6 @@
+apollo_msgs/ApollomonitorComponentStatus summary
+apollo_msgs/ApollomonitorComponentStatus processstatus
+apollo_msgs/ApollomonitorComponentStatus channelstatus
+apollo_msgs/ApollomonitorComponentStatus resourcestatus
+apollo_msgs/ApollomonitorComponentStatus otherstatus
+apollo_msgs/ApollomonitorComponentStatus modulestatus

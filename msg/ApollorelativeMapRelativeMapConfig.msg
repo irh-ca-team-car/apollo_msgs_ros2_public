@@ -1,0 +1,2 @@
+apollo_msgs/ApollorelativeMapMapGenerationParam mapparam
+apollo_msgs/ApollorelativeMapNavigationLaneConfig navigationlane

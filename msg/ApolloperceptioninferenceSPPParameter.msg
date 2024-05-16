@@ -1,0 +1,3 @@
+uint32 pyramidheight
+int32 pool#ApolloperceptioninferencePoolMethod
+int32 engine#ApolloperceptioninferenceEngine

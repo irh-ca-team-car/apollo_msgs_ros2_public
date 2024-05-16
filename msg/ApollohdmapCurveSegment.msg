@@ -1,0 +1,5 @@
+apollo_msgs/ApollohdmapCurveSegmentcurveType curvetype
+float64 s
+apollo_msgs/ApollocommonPointENU startposition
+float64 heading
+float64 length

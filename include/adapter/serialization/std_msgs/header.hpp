@@ -1,0 +1,1 @@
+#include "adapter/serialization/apollo_msgs/apollocommon_header.hpp"

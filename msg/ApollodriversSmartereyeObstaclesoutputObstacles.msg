@@ -1,0 +1,2 @@
+uint32 key
+apollo_msgs/ApollodriversOutputObstacle data

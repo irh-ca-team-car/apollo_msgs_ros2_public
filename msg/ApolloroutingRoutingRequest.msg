@@ -1,0 +1,7 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApolloroutingLaneWaypoint[] waypoint
+apollo_msgs/ApolloroutingLaneSegment[] blacklistedlane
+string[] blacklistedroad
+bool broadcast true
+apollo_msgs/ApollohdmapParkingSpace parkingspace
+apollo_msgs/ApolloroutingParkingInfo parkinginfo

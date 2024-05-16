@@ -1,0 +1,12 @@
+bool sprayemptyisvalid
+bool sprayempty
+bool spraynearemptyisvalid
+bool spraynearempty
+bool rearsprayingisvalid
+bool rearspraying
+bool rearwipingisvalid
+bool rearwiping
+bool frontsprayingisvalid
+bool frontspraying
+bool frontwipingisvalid
+bool frontwiping

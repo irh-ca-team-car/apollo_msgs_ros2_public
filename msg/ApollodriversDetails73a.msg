@@ -1,0 +1,12 @@
+float64 obstaclelength
+float64 obstaclewidth
+int32 obstacleage
+int32 obstaclelane
+bool cipvflag
+bool reserved5
+float64 radarposx
+float64 radarvelx
+int32 radarmatchconfidence
+bool reserved6
+int32 matchedradarid
+bool reserved7

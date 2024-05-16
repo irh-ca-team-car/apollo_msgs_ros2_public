@@ -1,0 +1,4 @@
+string cameranames "front_6mm"
+string inputcamerachannelnames
+string inputlocalizationchannelname
+string outputtopicchannelname

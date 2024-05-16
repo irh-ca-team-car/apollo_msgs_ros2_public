@@ -1,0 +1,9 @@
+bool driveenableresp
+int32 controlmoderesp#ApollocanbusControlModeRespType
+int32 vcurealshift#ApollocanbusVcuRealShiftType
+bool vcurealshiftvalid
+bool vcurealtorquevalid
+float64 vcurealtorque
+bool vculimitedtorquemode
+int32 vcudrivereptalivecounter
+int32 vcudrivereptchecksum

@@ -1,0 +1,7 @@
+apollo_msgs/ApolloperceptionPerceptionObstacle obstacle
+int32 type#ApolloperceptioncameraCameraType
+float32[] typeprobs
+apollo_msgs/ApollocommonPoint2D upperleft
+apollo_msgs/ApollocommonPoint2D lowerright
+apollo_msgs/ApollocommonPoint2D[] keypoints
+string[] debugmessage

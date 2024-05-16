@@ -1,0 +1,4 @@
+int32[] task#TaskConfigTaskType
+apollo_msgs/ApolloplanningNaviPathDeciderConfig navipathdeciderconfig
+apollo_msgs/ApolloplanningNaviSpeedDeciderConfig navispeeddeciderconfig
+apollo_msgs/ApolloplanningNaviObstacleDeciderConfig naviobstacledeciderconfig

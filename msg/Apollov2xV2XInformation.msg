@@ -1,0 +1,6 @@
+int32[] v2xtype#Apollov2xV2XType
+apollo_msgs/Apollov2xPoint trafficeventstart
+apollo_msgs/Apollov2xPoint trafficeventstarterror
+apollo_msgs/Apollov2xPoint trafficeventend
+apollo_msgs/Apollov2xPoint trafficeventenderror
+apollo_msgs/Apollov2xAbnormalInformation abnormalinfo

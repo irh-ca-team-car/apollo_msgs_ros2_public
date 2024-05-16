@@ -1,0 +1,5 @@
+uint32 numoutput 0
+apollo_msgs/ApolloperceptioninferenceFillerParameter weightfiller
+apollo_msgs/ApolloperceptioninferenceFillerParameter biasfiller
+bool debuginfo false
+bool exposehidden false

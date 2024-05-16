@@ -1,0 +1,12 @@
+uint32 numclasses
+bool sharelocation true
+int32 backgroundlabelid 0
+apollo_msgs/ApolloperceptioninferenceNonMaximumSuppressionParameter nmsparam
+apollo_msgs/ApolloperceptioninferenceSaveOutputParameter saveoutputparam
+int32 codetype#PriorBoxParameterCodeType
+bool varianceencodedintarget false
+int32 keeptopk -1
+float32 confidencethreshold
+bool visualize false
+float32 visualizethreshold
+string savefile

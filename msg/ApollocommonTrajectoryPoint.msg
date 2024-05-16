@@ -1,0 +1,7 @@
+apollo_msgs/ApollocommonPathPoint pathpoint
+float64 v
+float64 a
+float64 relativetime
+float64 da
+float64 steer
+apollo_msgs/ApollocommonGaussianInfo gaussianinfo

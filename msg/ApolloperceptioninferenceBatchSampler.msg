@@ -1,0 +1,5 @@
+bool useoriginalimage true
+apollo_msgs/ApolloperceptioninferenceSampler sampler
+apollo_msgs/ApolloperceptioninferenceSampleConstraint sampleconstraint
+uint32 maxsample
+uint32 maxtrials 100

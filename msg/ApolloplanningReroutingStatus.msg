@@ -1,0 +1,3 @@
+float64 lastreroutingtime
+bool needrerouting false
+apollo_msgs/ApolloroutingRoutingRequest routingrequest

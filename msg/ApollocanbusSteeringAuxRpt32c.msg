@@ -1,0 +1,8 @@
+bool userinteractionisvalid
+bool userinteraction
+bool rotationrateisvalid
+float64 rotationrate
+bool rawtorqueisvalid
+float64 rawtorque
+bool rawpositionisvalid
+float64 rawposition

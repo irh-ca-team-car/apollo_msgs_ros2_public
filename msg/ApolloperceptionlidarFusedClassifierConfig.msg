@@ -1,0 +1,5 @@
+float64 temporalwindow 20.0
+bool enabletemporalfusion true
+string oneshotfusionmethod
+string sequencefusionmethod
+bool usetrackedobjects true

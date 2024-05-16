@@ -1,0 +1,2 @@
+int32[] plannertype#ApolloplanningPlannerType
+int32 plannerpublicroadconfig#ApolloplanningPlannerPublicRoadConfig

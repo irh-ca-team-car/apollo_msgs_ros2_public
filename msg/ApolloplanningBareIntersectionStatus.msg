@@ -1,0 +1,3 @@
+string currentpncjunctionoverlapid
+string donepncjunctionoverlapid
+uint32 clearcounter

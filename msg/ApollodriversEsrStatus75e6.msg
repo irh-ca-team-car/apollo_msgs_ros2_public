@@ -1,0 +1,8 @@
+int32 cantxactivefault7
+int32 cantxactivefault6
+int32 cantxactivefault5
+int32 cantxactivefault4
+int32 cantxactivefault3
+int32 cantxactivefault2
+int32 cantxactivefault0
+int32 cantxactivefault1

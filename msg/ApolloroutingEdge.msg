@@ -1,0 +1,4 @@
+string fromlaneid
+string tolaneid
+float64 cost
+int32 directiontype#ApolloroutingDirectionType

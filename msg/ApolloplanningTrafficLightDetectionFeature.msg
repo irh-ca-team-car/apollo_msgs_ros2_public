@@ -1,0 +1,2 @@
+float64 messagetimestampsec
+apollo_msgs/ApolloplanningTrafficLightFeature[] trafficlight

@@ -1,0 +1,2 @@
+string latencyname
+apollo_msgs/ApollocommonLatencyStat latencystat

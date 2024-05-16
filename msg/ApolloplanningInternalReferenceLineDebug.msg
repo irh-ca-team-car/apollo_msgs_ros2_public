@@ -1,0 +1,15 @@
+string id
+float64 length
+float64 cost
+bool ischangelanepath
+bool isdrivable
+bool isprotected
+bool isoffroad
+float64 minimumboundary
+float64 averagekappa
+float64 averagedkappa
+float64 kapparms
+float64 dkapparms
+float64 kappamaxabs
+float64 dkappamaxabs
+float64 averageoffset

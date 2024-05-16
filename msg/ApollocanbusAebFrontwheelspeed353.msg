@@ -1,0 +1,11 @@
+bool vehiclespeedvalid
+float64 vehiclespeed
+float64 vehiclerealdirect
+bool wheelspeedflvalid
+float64 wheelspeedfl
+bool wheelspeedfrvalid
+float64 wheelspeedfr
+float64 wheelspeedfldirect
+float64 wheelspeedfrdirect
+float64 alivecounterfront
+float64 checksumfront

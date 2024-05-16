@@ -1,0 +1,8 @@
+int32 status#ApolloplanningStatus
+string pathid
+float64 timestamp
+bool existlanechangestartposition false
+apollo_msgs/ApollocommonPoint3D lanechangestartposition
+float64 lastsucceedtimestamp
+bool iscurrentoptsucceed false
+bool iscleartochangelane false

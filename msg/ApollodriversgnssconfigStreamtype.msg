@@ -1,0 +1,4 @@
+int32 serial#ApollodriversgnssconfigSerial
+int32 tcp#ApollodriversgnssconfigTcp
+int32 udp#ApollodriversgnssconfigUdp
+int32 ntrip#ApollodriversgnssconfigNtrip

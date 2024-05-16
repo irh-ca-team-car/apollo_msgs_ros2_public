@@ -1,0 +1,8 @@
+bool dimlevelisvalid
+bool moodlightsonisvalid
+bool reardomelightsonisvalid
+bool frontdomelightsonisvalid
+int32 dimlevel#ApollocanbusDimLevelType
+bool moodlightson
+bool reardomelightson
+bool frontdomelightson

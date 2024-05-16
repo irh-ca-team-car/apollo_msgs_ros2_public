@@ -1,0 +1,8 @@
+int32 width0
+int32 width1
+int32 width2
+bool istracking
+apollo_msgs/ApollodriversLdwLane leftlane
+apollo_msgs/ApollodriversLdwLane rightlane
+apollo_msgs/ApollodriversLdwLane adjleftlane
+apollo_msgs/ApollodriversLdwLane adjrightlane

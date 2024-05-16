@@ -1,0 +1,5 @@
+apollo_msgs/ApollodataRecordSegmentSetting segmentsetting
+apollo_msgs/ApollodataTrigger[] triggers
+float64 maxbackwardtime 30.0
+float64 minrestorechunk 5.0
+string triggerlogfilepath

@@ -1,0 +1,8 @@
+bool wheelspeedrlvalid
+float64 wheelspeedrl
+bool wheelspeedrrvalid
+float64 wheelspeedrr
+float64 wheelspeedrldirect
+float64 wheelspeedrrdirect
+float64 alivecounterrear
+float64 checksumrear

@@ -1,0 +1,2 @@
+int32 type#ApollopredictionType
+string junctionid

@@ -1,0 +1,2 @@
+int32 allowdrivingbehavior#Apollov2xType
+int32 phaseid

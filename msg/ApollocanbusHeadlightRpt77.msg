@@ -1,0 +1,3 @@
+int32 outputvalue#ApollocanbusOutputValueType
+int32 manualinput#ApollocanbusManualInputType
+int32 commandedvalue#ApollocanbusCommandedValueType

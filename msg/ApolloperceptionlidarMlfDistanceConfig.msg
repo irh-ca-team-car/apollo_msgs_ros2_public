@@ -1,0 +1,2 @@
+apollo_msgs/ApolloperceptionlidarMlfDistanceWeight[] foregroundweights
+apollo_msgs/ApolloperceptionlidarMlfDistanceWeight[] backgroundweights

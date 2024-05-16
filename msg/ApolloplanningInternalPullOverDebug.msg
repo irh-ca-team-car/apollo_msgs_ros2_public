@@ -1,0 +1,6 @@
+apollo_msgs/ApollocommonPointENU position
+float64 theta
+float64 lengthfront
+float64 lengthback
+float64 widthleft
+float64 widthright

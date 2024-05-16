@@ -1,0 +1,20 @@
+bool isgaspedalerror
+bool isgaspedalpressedmore
+float64 gaspedalposition 0
+bool isgasvalid false
+float64 throttleinput
+float64 throttlecmd
+float64 throttleoutput
+int32 watchdogsource
+bool throttleenabled
+bool driveroverride
+bool driveractivity
+bool watchdogfault
+bool channel1fault
+bool channel2fault
+bool connectorfault
+float64 acceleratorpedal
+float64 acceleratorpedalrate
+int32 majorversion
+int32 minorversion
+int32 buildnumber

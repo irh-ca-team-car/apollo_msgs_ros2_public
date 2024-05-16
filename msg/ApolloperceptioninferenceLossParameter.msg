@@ -1,0 +1,3 @@
+int32 ignorelabel
+int32 normalization#ApolloperceptioninferenceNormalizationMode
+bool normalize

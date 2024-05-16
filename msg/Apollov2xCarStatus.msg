@@ -1,0 +1,4 @@
+apollo_msgs/ApollolocalizationLocalizationEstimate localization
+apollo_msgs/ApollocanbusChassisDetail chassisdetail
+apollo_msgs/Apollov2xJunction junction
+apollo_msgs/Apollov2xId rsuid

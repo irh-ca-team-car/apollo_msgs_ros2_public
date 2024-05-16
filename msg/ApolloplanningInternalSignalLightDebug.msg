@@ -1,0 +1,3 @@
+float64 adcspeed
+float64 adcfronts
+apollo_msgs/ApolloplanningInternalSignalDebug[] signal

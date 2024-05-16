@@ -1,0 +1,3 @@
+int32 reasoncode#ApolloplanningReasonCode
+string reason
+apollo_msgs/ApolloplanningMainEmergencyStoptask task

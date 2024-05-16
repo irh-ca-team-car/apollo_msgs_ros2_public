@@ -1,0 +1,2 @@
+bool enablenavigatordownsample true
+apollo_msgs/ApollorelativeMapSampleParam sampleparam

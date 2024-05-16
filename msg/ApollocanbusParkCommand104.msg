@@ -1,0 +1,3 @@
+int32 checksum104
+int32 parktarget#ApollocanbusParkTargetType
+int32 parkenctrl#ApollocanbusParkEnCtrlType

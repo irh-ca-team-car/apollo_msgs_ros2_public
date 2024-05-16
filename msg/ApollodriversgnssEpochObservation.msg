@@ -1,0 +1,10 @@
+uint32 receiverid
+int32 gnsstimetype#ApollodriversgnssGnssTimeType
+uint32 gnssweek
+float64 gnssseconds
+float64 positionx
+float64 positiony
+float64 positionz
+uint32 healthflag 0
+uint32 satobsnum
+apollo_msgs/ApollodriversgnssSatelliteObservation[] satobs

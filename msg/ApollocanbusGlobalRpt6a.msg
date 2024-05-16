@@ -1,0 +1,7 @@
+int32 pacmodstatus#ApollocanbusPacmodStatusType
+int32 overridestatus#ApollocanbusOverrideStatusType
+bool vehcantimeout
+bool strcantimeout
+int32 brkcantimeout#ApollocanbusBrkCanTimeoutType
+bool usrcantimeout
+int32 usrcanreaderrors

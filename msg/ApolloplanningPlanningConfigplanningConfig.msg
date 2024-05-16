@@ -1,0 +1,3 @@
+apollo_msgs/ApolloplanningRtkPlanningConfig rtkplanningconfig
+apollo_msgs/ApolloplanningStandardPlanningConfig standardplanningconfig
+apollo_msgs/ApolloplanningNavigationPlanningConfig navigationplanningconfig

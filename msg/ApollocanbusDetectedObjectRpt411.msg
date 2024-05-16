@@ -1,0 +1,2 @@
+float64 frontobjectdistancehighres
+float64 frontobjectdistancelowres

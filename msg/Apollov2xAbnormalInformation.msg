@@ -1,0 +1,2 @@
+float64 averagespeed
+float64 vehicledensity

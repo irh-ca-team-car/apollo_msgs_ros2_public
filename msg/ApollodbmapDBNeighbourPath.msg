@@ -1,0 +1,1 @@
+apollo_msgs/ApollodbmapDBNeighbourSegment[] segment

@@ -1,0 +1,2 @@
+string name
+apollo_msgs/ApollocommonTrajectoryPoint[] trajectorypoint

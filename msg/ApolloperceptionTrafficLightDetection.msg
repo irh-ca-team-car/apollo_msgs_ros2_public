@@ -1,0 +1,5 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApolloperceptionTrafficLight[] trafficlight
+apollo_msgs/ApolloperceptionTrafficLightDebug trafficlightdebug
+bool containlights
+int32 cameraid#ApolloperceptionCameraID

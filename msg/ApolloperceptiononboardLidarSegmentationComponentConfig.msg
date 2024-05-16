@@ -1,0 +1,5 @@
+string sensorname
+bool enablehdmap
+float64 lidarquerytfoffset
+string lidar2novateltf2childframeid
+string outputchannelname

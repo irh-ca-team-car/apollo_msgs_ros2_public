@@ -1,0 +1,2 @@
+apollo_msgs/ApolloplanningStopPoint stoppoint
+float64 cruisespeed

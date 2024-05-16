@@ -1,0 +1,2 @@
+apollo_msgs/Apollov2xobuLaneTrafficLight[] lanetrafficlight
+int32 roaddirection

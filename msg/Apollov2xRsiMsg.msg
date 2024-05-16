@@ -1,0 +1,9 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/Apollov2xRsiPoint[] points
+float64 speed
+float64 lowspeed
+float64 highspeed
+string description
+int32 rsitype
+float64 radius
+int32 priority

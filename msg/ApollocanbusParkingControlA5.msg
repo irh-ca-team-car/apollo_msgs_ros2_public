@@ -1,0 +1,2 @@
+int32 parkingtarget#ApollocanbusParkingTargetType
+int32 parkingenablecontrol#ApollocanbusParkingEnableControlType

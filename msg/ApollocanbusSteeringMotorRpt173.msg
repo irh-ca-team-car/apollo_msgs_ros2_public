@@ -1,0 +1,2 @@
+float64 motorcurrent
+float64 shaftposition

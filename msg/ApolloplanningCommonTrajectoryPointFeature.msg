@@ -1,0 +1,5 @@
+apollo_msgs/ApolloplanningCommonPathPointFeature pathpoint
+float64 v
+float64 a
+float64 relativetime
+apollo_msgs/ApollocommonGaussianInfo gaussianinfo

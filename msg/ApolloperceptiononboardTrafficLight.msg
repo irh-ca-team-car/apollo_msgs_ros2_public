@@ -1,0 +1,19 @@
+string tltf2frameid "world"
+string tltf2childframeid
+float64 tf2timeoutsecond 0.01
+string cameranames "front_6mm,front_12mm"
+string camerachannelnames
+float64 tlimagetimestampoffset 0.0
+int32 maxprocessimagefps 8
+float64 querytfintervalseconds 0.3
+float64 validhdmapinterval 1.5
+float64 imagesystsdiffthreshold 0.5
+float64 syncintervalseconds 0.5
+string cameratrafficlightperceptionconfdir
+string cameratrafficlightperceptionconffile
+int32 defaultimagebordersize 100
+string trafficlightoutputchannelname
+string simulationchannelname
+string v2xtrafficlightsinputchannelname
+float64 v2xsyncintervalseconds 0.1
+int32 maxv2xmsgbuffsize 50

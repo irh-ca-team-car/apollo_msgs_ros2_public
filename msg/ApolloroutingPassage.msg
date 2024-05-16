@@ -1,0 +1,3 @@
+apollo_msgs/ApolloroutingLaneSegment[] segment
+bool canexit
+int32 changelanetype#ApolloroutingChangeLaneType

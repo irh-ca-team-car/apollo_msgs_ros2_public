@@ -1,0 +1,2 @@
+apollo_msgs/ApolloplanningautotuningTrajectoryPointRawFeature[] pointfeature
+apollo_msgs/ApolloplanningautotuningObstacleSTRawData strawdata

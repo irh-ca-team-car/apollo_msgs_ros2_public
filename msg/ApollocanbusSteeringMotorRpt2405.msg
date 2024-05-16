@@ -1,0 +1,3 @@
+int32 encodertemperature
+int32 motortemperature
+float64 angularspeed

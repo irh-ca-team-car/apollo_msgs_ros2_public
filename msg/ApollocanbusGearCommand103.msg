@@ -1,0 +1,3 @@
+int32 geartarget#ApollocanbusGearTargetType
+int32 gearenctrl#ApollocanbusGearEnCtrlType
+int32 checksum103

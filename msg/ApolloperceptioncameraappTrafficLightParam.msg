@@ -1,0 +1,3 @@
+apollo_msgs/ApolloperceptioncameraappDetectorParam[] detectorparam
+apollo_msgs/ApolloperceptioncameraappTrackerParam trackerparam
+int32 gpuid

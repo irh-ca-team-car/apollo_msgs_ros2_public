@@ -1,0 +1,14 @@
+bool isdriverbuckled
+bool ispassengerbuckled
+bool is_rear_left_passenger_buckled
+bool is_rear_middle_passenger_buckled
+bool is_rear_right_passenger_buckled
+
+bool is_fuel_door_open
+bool isdrivercardoorclose
+bool ispassengerdooropen
+bool isrearrightdooropen
+bool isrearleftdooropen
+bool istrunkopen
+bool is_hood_open
+bool traction_control

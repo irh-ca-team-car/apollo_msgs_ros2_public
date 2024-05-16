@@ -1,0 +1,4 @@
+float64 manualinput
+float64 commandedvalue
+float64 outputvalue
+int32 brakeonoff#ApollocanbusBrakeOnOffType

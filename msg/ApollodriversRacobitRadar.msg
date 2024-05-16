@@ -1,0 +1,5 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollodriversRacobitRadarObs[] contiobs
+apollo_msgs/ApollodriversRacobitRadarState201 radarstate
+apollo_msgs/ApollodriversRacobitClusterListStatus600 clusterliststatus
+apollo_msgs/ApollodriversRacobitObjectListStatus60A objectliststatus

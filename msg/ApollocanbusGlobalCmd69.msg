@@ -1,0 +1,3 @@
+int32 pacmodenable#ApollocanbusPacmodEnableType
+int32 clearoverride#ApollocanbusClearOverrideType
+int32 ignoreoverride#ApollocanbusIgnoreOverrideType

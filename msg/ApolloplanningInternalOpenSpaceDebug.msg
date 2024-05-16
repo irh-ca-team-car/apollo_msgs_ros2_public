@@ -1,0 +1,20 @@
+apollo_msgs/ApolloplanningInternalTrajectories trajectories
+apollo_msgs/ApollocommonVehicleMotion warmstarttrajectory
+apollo_msgs/ApollocommonVehicleMotion smoothedtrajectory
+float64[] warmstartduallambda
+float64[] warmstartdualmiu
+float64[] optimizedduallambda
+float64[] optimizeddualmiu
+float64[] xyboundary
+apollo_msgs/ApolloplanningInternalObstacleDebug[] obstacles
+apollo_msgs/ApollocommonTrajectoryPoint roishiftpoint
+apollo_msgs/ApollocommonTrajectoryPoint endpoint
+apollo_msgs/ApolloplanningInternalTrajectories partitionedtrajectories
+apollo_msgs/ApolloplanningInternalTrajectories chosentrajectory
+bool isfallbacktrajectory
+apollo_msgs/ApolloplanningInternalTrajectories fallbacktrajectory
+apollo_msgs/ApollocommonTrajectoryPoint trajectorystitchingpoint
+apollo_msgs/ApollocommonTrajectoryPoint futurecollisionpoint
+float64 timelatency 0.0
+apollo_msgs/ApollocommonPointENU originpoint
+float64 originheadingrad

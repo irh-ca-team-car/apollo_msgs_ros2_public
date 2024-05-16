@@ -1,0 +1,9 @@
+int32 paramsize
+apollo_msgs/ApolloplanningQPMatrix quadraticmatrix
+float64[] bias
+apollo_msgs/ApolloplanningQPMatrix equalitymatrix
+float64[] equalityvalue
+apollo_msgs/ApolloplanningQPMatrix inequalitymatrix
+float64[] inequalityvalue
+float64[] inputmarker
+float64[] optimalparam

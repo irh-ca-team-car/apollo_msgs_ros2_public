@@ -1,0 +1,8 @@
+float64 engspd
+float64 accpedalpos
+int32 epbswtichposition#ApollocanbusEpbswtichpositionType
+int32 currentgear#ApollocanbusCurrentgearType
+int32 epsstreeingmode#ApollocanbusEpsStreeingmodeType
+float64 epsdrvinputtrqvalue
+float64 epsconsumedcurrvalue
+int32 epscurrmod#ApollocanbusEpscurrmodType

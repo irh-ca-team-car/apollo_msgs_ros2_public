@@ -1,0 +1,7 @@
+string name
+int32 brand#ApollodataBrand
+int32 model#ApollodataModel
+apollo_msgs/ApollocanbusLicense license
+apollo_msgs/ApollocanbusCanbusConf canbusconf
+apollo_msgs/ApollocommonVehicleConfig vehicleconfig
+apollo_msgs/ApollocontrolControlConf controlconfig

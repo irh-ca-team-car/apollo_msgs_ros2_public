@@ -1,0 +1,2 @@
+string obstacleid
+float64 stoptimestampsec

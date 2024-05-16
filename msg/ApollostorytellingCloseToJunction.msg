@@ -1,0 +1,3 @@
+string id
+int32 type#ApollostorytellingJunctionType
+float64 distance

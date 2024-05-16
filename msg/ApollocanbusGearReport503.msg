@@ -1,0 +1,2 @@
+int32 gearflt#ApollocanbusGearFltType
+int32 gearactual#ApollocanbusGearActualType

@@ -1,0 +1,3 @@
+float64 batterycurrent
+float64 batteryvoltage
+int32 batterysoc

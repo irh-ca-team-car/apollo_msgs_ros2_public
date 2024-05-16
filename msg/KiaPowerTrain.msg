@@ -1,0 +1,11 @@
+float32 engine_rpm
+float32 speed_mps
+int32 steering_mode
+float32 available_charge_power_kw
+float32 soc
+float32 engine_torque
+
+float32 throttle
+float32 brake
+float32 applied_torque
+float32 steering_percentage

@@ -1,0 +1,2 @@
+apollo_msgs/ApollocontriblgsvlMsgsPose position
+apollo_msgs/ApollocontriblgsvlMsgsVector3 size

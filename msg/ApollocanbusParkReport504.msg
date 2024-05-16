@@ -1,0 +1,2 @@
+int32 parkingactual#ApollocanbusParkingActualType
+int32 parkflt#ApollocanbusParkFltType

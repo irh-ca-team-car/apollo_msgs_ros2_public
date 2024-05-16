@@ -1,0 +1,4 @@
+apollo_msgs/ApolloplanningTopicConfig topicconfig
+int32 learningmode#ApolloplanningPlanningLearningMode
+apollo_msgs/ApolloplanningPlanningConfigplanningConfig planningconfig
+apollo_msgs/ApolloplanningTaskConfig[] defaulttaskconfig

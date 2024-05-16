@@ -1,0 +1,5 @@
+int32[] shape
+bool usebias
+apollo_msgs/ApollopredictionTensorParameter kernel
+apollo_msgs/ApollopredictionTensorParameter bias
+int32 stride

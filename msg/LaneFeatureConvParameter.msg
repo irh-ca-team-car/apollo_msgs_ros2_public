@@ -1,0 +1,5 @@
+apollo_msgs/Conv1dParameter conv1d0
+apollo_msgs/ActivationParameter activation1
+apollo_msgs/Conv1dParameter conv1d2
+apollo_msgs/ActivationParameter activation3
+apollo_msgs/Conv1dParameter conv1d4

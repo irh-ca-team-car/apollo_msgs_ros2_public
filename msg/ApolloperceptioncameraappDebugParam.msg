@@ -1,0 +1,7 @@
+string detectionoutdir
+string trackeddetectionoutdir
+string trackoutfile
+string detectfeaturedir
+string laneoutdir
+string camera2worldoutfile
+string calibrationoutdir

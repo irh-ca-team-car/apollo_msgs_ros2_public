@@ -1,0 +1,10 @@
+bool brakeenableresp
+int32 controlmoderesp#ApollocanbusControlModeRespType
+bool vcurealbrakevalid
+int32 vcurealbrake
+int32 vcurealparkingstatus
+bool vcurealparkingvalid
+bool rampauxiliaryindication
+float64 vehicleslope
+int32 vcubrakereptalivecounter
+int32 vcubrakereptchecksum

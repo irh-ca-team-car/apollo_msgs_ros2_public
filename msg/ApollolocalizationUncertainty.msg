@@ -1,0 +1,5 @@
+apollo_msgs/ApollocommonPoint3D positionstddev
+apollo_msgs/ApollocommonPoint3D orientationstddev
+apollo_msgs/ApollocommonPoint3D linearvelocitystddev
+apollo_msgs/ApollocommonPoint3D linearaccelerationstddev
+apollo_msgs/ApollocommonPoint3D angularvelocitystddev

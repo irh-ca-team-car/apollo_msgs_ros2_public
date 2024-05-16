@@ -1,0 +1,2 @@
+apollo_msgs/ApollodriversgnssconfigNovatelConfig novatelconfig
+int32 ubloxconfig#ApollodriversgnssconfigUbloxConfig

@@ -1,0 +1,5 @@
+int32 epsintidx#ApollocanbusEpsIntidxType
+float64 epssteeranglespd
+float64 epssteerangle
+int32 epsfaultst#ApollocanbusEpsFaultstType
+int32 epsdrvmode#ApollocanbusEpsDrvmodeType

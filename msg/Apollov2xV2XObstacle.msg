@@ -1,0 +1,2 @@
+apollo_msgs/ApolloperceptionPerceptionObstacle perceptionobstacle
+apollo_msgs/Apollov2xV2XInformation v2xinfo

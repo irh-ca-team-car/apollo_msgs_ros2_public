@@ -1,0 +1,11 @@
+float64 accweight 500.0
+float64 jerkweight 100.0
+float64 lataccweight 500.0
+float64 spotentialweight 10.0
+float64 refvweight 10.0
+float64 refsweight 10.0
+float64 endsweight 10.0
+float64 endvweight 10.0
+float64 endaweight 10.0
+float64 softsboundweight 10.0
+bool usewarmstart true

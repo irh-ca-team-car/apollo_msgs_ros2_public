@@ -1,0 +1,2 @@
+apollo_msgs/ApolloplanningautotuningPathPointRawFeature pathfeature
+apollo_msgs/ApolloplanningautotuningSpeedPointRawFeature speedfeature

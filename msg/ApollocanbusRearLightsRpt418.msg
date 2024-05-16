@@ -1,0 +1,4 @@
+bool reverselightsonisvalid
+bool brakelightsonisvalid
+bool reverselightson
+bool brakelightson

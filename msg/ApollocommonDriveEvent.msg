@@ -1,0 +1,5 @@
+apollo_msgs/ApollocommonHeader apolloheader
+string event
+apollo_msgs/ApollolocalizationPose location
+int32[] type#ApollocommonType
+bool isreportable

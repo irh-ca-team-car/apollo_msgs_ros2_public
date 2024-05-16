@@ -1,0 +1,4 @@
+int32 faultrank
+int32 adasfaultcode
+int32 adassoftwareversion
+int32 adashardwareversion

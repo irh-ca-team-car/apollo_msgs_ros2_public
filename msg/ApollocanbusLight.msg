@@ -1,0 +1,10 @@
+int32 turnlighttype#ApollocanbusTurnLightType
+int32 beamlamptype#ApollocanbusBeamLampType
+bool isbrakelampon
+bool isautolight
+int32 wipergear
+int32 lotiongear
+bool ishornon
+int32 lincolnlamptype#ApollocanbusLincolnLampType
+int32 lincolnwiper#ApollocanbusLincolnWiperType
+int32 lincolnambient#ApollocanbusLincolnAmbientType

@@ -1,0 +1,4 @@
+int32 vin16
+int32 scustopbutst#ApollocanbusScuStopbutstType
+int32 scudrvmode#ApollocanbusScuDrvmodeType
+int32 scufaultst#ApollocanbusScuFaultstType

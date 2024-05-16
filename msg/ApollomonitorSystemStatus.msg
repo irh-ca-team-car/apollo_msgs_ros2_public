@@ -1,0 +1,8 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollomonitorSystemStatushmiModules[] hmimodules
+apollo_msgs/ApollomonitorSystemStatuscomponents[] components
+string passengermsg
+float64 safetymodetriggertime
+bool requireemergencystop
+bool isrealtimeinsimulation
+apollo_msgs/ApollomonitorSystemStatusotherComponents[] othercomponents

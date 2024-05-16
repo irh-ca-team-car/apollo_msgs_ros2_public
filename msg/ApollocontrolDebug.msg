@@ -1,0 +1,4 @@
+apollo_msgs/ApollocontrolSimpleLongitudinalDebug simplelondebug
+apollo_msgs/ApollocontrolSimpleLateralDebug simplelatdebug
+apollo_msgs/ApollocontrolInputDebug inputdebug
+apollo_msgs/ApollocontrolSimpleMPCDebug simplempcdebug

@@ -1,0 +1,2 @@
+apollo_msgs/ApollocommonPoint3D position
+apollo_msgs/ApollocommonQuaternion orientation

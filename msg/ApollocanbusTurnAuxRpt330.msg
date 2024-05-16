@@ -1,0 +1,4 @@
+bool passblinkerbulbonisvalid
+bool passblinkerbulbon
+bool driverblinkerbulbonisvalid
+bool driverblinkerbulbon

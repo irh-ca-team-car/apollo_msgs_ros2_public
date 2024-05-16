@@ -1,0 +1,5 @@
+int32 reasoncode#ApolloplanningStopReasonCode
+float64 distances
+apollo_msgs/ApollocommonPointENU stoppoint
+float64 stopheading
+string[] waitforobstacle

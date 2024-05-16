@@ -1,0 +1,9 @@
+string sensornamepair ""
+float32 locationdistweight 0
+float32 directiondistweight 0
+float32 bboxsizedistweight 0
+float32 pointnumdistweight 0
+float32 histogramdistweight 0
+float32 centroidshiftdistweight 0
+float32 bboxioudistweight 0
+float32 semanticmapdistweight 0

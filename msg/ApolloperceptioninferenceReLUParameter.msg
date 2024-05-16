@@ -1,0 +1,2 @@
+float32 negativeslope 0
+int32 engine#ApolloperceptioninferenceEngine

@@ -1,0 +1,14 @@
+int32 roitype#ApolloplanningRoiType
+float64 roilongitudinalrangestart 10.0
+float64 roilongitudinalrangeend 10.0
+float64 parkingstartrange 7.0
+bool parkinginwards false
+bool enableperceptionobstacles
+float64 parkingdepthbuffer 0.1
+float64 roilinesegmentminangle 0.3
+float64 roilinesegmentlength 1.0
+float64 roilinesegmentlengthfrommap 10.0
+float64 perceptionobstaclefilteringdistance 1000.0
+float64 perceptionobstaclebuffer
+float64 curbheadingtangentchangeupperlimit 1.0
+float64 endposesdistance 10.0

@@ -1,0 +1,3 @@
+int32 scenariotype#ApolloplanningScenarioConfigScenarioType
+int32 stagetype#ApolloplanningScenarioConfigStageType
+string msg

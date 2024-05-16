@@ -1,0 +1,4 @@
+apollo_msgs/ApollocommonHeader apolloheader
+string model
+apollo_msgs/ApollodriversrobosenseRobosenseScanPacket[] firingpkts
+uint64 basetime 0

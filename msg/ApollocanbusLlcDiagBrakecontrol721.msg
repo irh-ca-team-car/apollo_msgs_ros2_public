@@ -1,0 +1,6 @@
+float64 llcdbgbrakepidcontributionp
+float64 llcdbgbrakepidcontributioni
+float64 llcdbgbrakepidcontributiond
+float64 llcdbgbrakepidoutput
+int32 llcdbgbrakepiderror
+float64 llcdbgbrakefeedforward

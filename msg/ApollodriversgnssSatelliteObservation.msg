@@ -1,0 +1,4 @@
+uint32 satprn
+int32 satsys#ApollodriversgnssGnssType
+uint32 bandobsnum
+apollo_msgs/ApollodriversgnssBandObservation[] bandobs

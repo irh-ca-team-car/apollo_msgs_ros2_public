@@ -1,0 +1,2 @@
+int32 adsepsmode#ApollocanbusAdsEpsmodeType
+float64 adsreqepstargetangle

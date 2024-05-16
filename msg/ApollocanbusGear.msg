@@ -1,0 +1,5 @@
+bool isshiftpositionvalid
+int32 gearstate#ChassisGearPosition
+bool driveroverride
+int32 gearcmd#ChassisGearPosition
+bool canbusfault

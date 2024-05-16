@@ -1,0 +1,4 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/Apollov2xobuRoadTrafficLight[] roadtrafficlight
+int32 intersectionid
+apollo_msgs/Bytes hdmapjunctionid

@@ -1,0 +1,2 @@
+int32 key
+apollo_msgs/ApollodriversRadarObstacle data

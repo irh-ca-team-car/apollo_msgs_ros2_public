@@ -1,0 +1,4 @@
+apollo_msgs/Bytes sourceframe
+apollo_msgs/Bytes targetframe
+apollo_msgs/ApollocommonPoint3D translation
+apollo_msgs/ApollocommonQuaternion rotation

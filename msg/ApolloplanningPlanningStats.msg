@@ -1,0 +1,6 @@
+apollo_msgs/ApolloplanningStatsGroup totalpathlength
+apollo_msgs/ApolloplanningStatsGroup totalpathtime
+apollo_msgs/ApolloplanningStatsGroup v
+apollo_msgs/ApolloplanningStatsGroup a
+apollo_msgs/ApolloplanningStatsGroup kappa
+apollo_msgs/ApolloplanningStatsGroup dkappa

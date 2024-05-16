@@ -1,0 +1,11 @@
+bool isengineaccavailable
+bool isengineaccerror
+int32 enginestate#ApollocanbusType
+float64 maxenginetorqpercent
+float64 minenginetorqpercent
+int32 baseenginetorqconstant
+bool isenginespeederror
+float64 enginespeed
+int32 enginetorque
+bool isoverenginetorque
+float64 enginerpm

@@ -1,0 +1,6 @@
+apollo_msgs/ApollopredictionLaneFeature[] currentlanefeature
+apollo_msgs/ApollopredictionLaneFeature lanefeature
+apollo_msgs/ApollopredictionLaneFeature[] nearbylanefeature
+apollo_msgs/ApollopredictionLaneGraph lanegraph
+apollo_msgs/ApollopredictionLaneGraph lanegraphordered
+float64 labelupdatetimedelta

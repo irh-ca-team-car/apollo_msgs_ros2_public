@@ -1,0 +1,4 @@
+bool cantxtrackmoving
+bool cantxtrackmovingfast
+bool cantxtrackmovingslow
+int32 cantxtrackpower

@@ -1,0 +1,2 @@
+apollo_msgs/ApolloplanningCosThetaSmootherConfig costhetasmoothing
+apollo_msgs/ApolloplanningFemPosDeviationSmootherConfig femposdeviationsmoothing

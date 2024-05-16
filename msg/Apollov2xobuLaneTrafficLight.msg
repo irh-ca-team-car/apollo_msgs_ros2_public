@@ -1,0 +1,3 @@
+float64 gpsxm
+float64 gpsym
+apollo_msgs/Apollov2xobuSingleTrafficLight[] singletrafficlight

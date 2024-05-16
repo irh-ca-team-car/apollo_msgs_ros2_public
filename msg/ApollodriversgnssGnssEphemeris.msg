@@ -1,0 +1,3 @@
+int32 gnsstype#ApollodriversgnssGnssType
+apollo_msgs/ApollodriversgnssKepplerOrbit kepplerorbit
+apollo_msgs/ApollodriversgnssGlonassOrbit glonassorbit

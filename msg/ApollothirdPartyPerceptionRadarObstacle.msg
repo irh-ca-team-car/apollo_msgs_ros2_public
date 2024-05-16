@@ -1,0 +1,13 @@
+int32 id
+apollo_msgs/ApollocommonPoint3D relativeposition
+apollo_msgs/ApollocommonPoint3D relativevelocity
+float64 rcs
+bool movable
+float64 width
+float64 length
+float64 height
+float64 theta
+apollo_msgs/ApollocommonPoint3D absoluteposition
+apollo_msgs/ApollocommonPoint3D absolutevelocity
+int32 count
+int32 movingframescount

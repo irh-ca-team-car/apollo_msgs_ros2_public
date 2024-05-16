@@ -1,0 +1,6 @@
+bool driveenable
+int32 autobrakecommand
+bool autoparkingcommand
+bool epbrampauxiliarycommand
+int32 autodrivercmdalivecounter
+int32 autodrivercmdchecksum

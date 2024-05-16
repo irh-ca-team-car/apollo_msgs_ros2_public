@@ -1,0 +1,35 @@
+int32 id
+apollo_msgs/ApollocommonPoint3D[] polygonpoint
+apollo_msgs/ApollocommonPoint3D position
+apollo_msgs/ApollocommonPoint3D frontposition
+apollo_msgs/ApollocommonPoint3D velocity
+apollo_msgs/ApollocommonPoint3D rawvelocity
+apollo_msgs/ApollocommonPoint3D acceleration
+float64 velocityheading
+float64 speed
+float64 acc
+float64 theta
+float64 length
+float64 width
+float64 height
+float64 trackingtime
+float64 timestamp
+apollo_msgs/ApollopredictionLane lane
+apollo_msgs/ApollopredictionJunctionFeature junctionfeature
+apollo_msgs/ApollocommonPoint3D tposition
+apollo_msgs/ApollocommonPoint3D tvelocity
+float64 tvelocityheading
+float64 tspeed
+apollo_msgs/ApollocommonPoint3D tacceleration
+float64 tacc
+bool isstill false
+int32 type#ApolloperceptionPerceptionObstacleType
+float64 labelupdatetimedelta
+apollo_msgs/ApollopredictionObstaclePriority priority
+bool isnearjunction false
+apollo_msgs/ApollopredictionPredictionTrajectoryPoint[] futuretrajectorypoints
+apollo_msgs/ApollocommonTrajectoryPoint[] shorttermpredictedtrajectorypoints
+apollo_msgs/ApollopredictionTrajectory[] predictedtrajectory
+apollo_msgs/ApollocommonTrajectoryPoint[] adctrajectorypoint
+string[] surroundinglaneid
+string[] withinlaneid

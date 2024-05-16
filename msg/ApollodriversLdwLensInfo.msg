@@ -1,0 +1,9 @@
+float32 ximagefocal
+float32 yimagefocal
+float32 xratiofocalpixel
+float32 yratiofocalpixel
+float32 mountingheight
+float32 mcosrx
+float32 msinrx
+float32 mcosry
+float32 msinry

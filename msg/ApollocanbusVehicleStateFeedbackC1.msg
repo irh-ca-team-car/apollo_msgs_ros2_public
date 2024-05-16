@@ -1,0 +1,5 @@
+int32 parkingactual#ApollocanbusParkingActualType
+float64 braketorquefeedback
+int32 gearstateactual#ApollocanbusGearStateActualType
+float64 steeringactual
+float64 speed

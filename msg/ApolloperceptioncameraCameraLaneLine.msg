@@ -1,0 +1,10 @@
+int32 type#ApolloperceptioncameraLaneLineType
+int32 postype#ApolloperceptioncameraLaneLinePositionType
+apollo_msgs/ApolloperceptioncameraLaneLineCubicCurve curvecameracoord
+apollo_msgs/ApolloperceptioncameraLaneLineCubicCurve curveimagecoord
+apollo_msgs/ApollocommonPoint3D[] curvecamerapointset
+apollo_msgs/ApollocommonPoint2D[] curveimagepointset
+apollo_msgs/ApolloperceptioncameraEndPoints[] imageendpointset
+int32 trackid
+float32 confidence
+int32 usetype#ApolloperceptioncameraLaneLineUseType

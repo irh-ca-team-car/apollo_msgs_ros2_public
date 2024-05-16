@@ -1,0 +1,2 @@
+float64 batterypercent
+float64 fuellevel

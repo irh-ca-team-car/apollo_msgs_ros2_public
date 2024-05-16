@@ -1,0 +1,4 @@
+int32 steerangleensts#ApollocanbusSteerAngleEnStsType
+float64 steeranglests
+int32 steererr#ApollocanbusSteerErrType
+int32 sensorerr#ApollocanbusSensorErrType

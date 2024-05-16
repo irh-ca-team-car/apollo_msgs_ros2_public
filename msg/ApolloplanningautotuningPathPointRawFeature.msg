@@ -1,0 +1,2 @@
+apollo_msgs/ApollocommonPathPoint cartesiancoord
+apollo_msgs/ApollocommonFrenetFramePoint frenetcoord

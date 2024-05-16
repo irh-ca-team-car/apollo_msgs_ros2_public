@@ -1,0 +1,7 @@
+apollo_msgs/ApollocommonHeader apolloheader
+int32 model#ApollodriversvelodyneModel
+int32 mode#ApollodriversvelodyneMode
+apollo_msgs/ApollodriversvelodyneVelodynePacket[] firingpkts
+apollo_msgs/ApollodriversvelodyneVelodynePacket[] positioningpkts
+string sn
+uint64 basetime 0

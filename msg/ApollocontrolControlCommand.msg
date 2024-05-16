@@ -1,0 +1,25 @@
+apollo_msgs/ApollocommonHeader apolloheader
+float64 throttle
+float64 brake
+float64 steeringrate
+float64 steeringtarget
+bool parkingbrake
+float64 speed
+float64 acceleration
+bool resetmodel
+bool engineonoff
+float64 trajectoryfraction
+int32 drivingmode#ApollocanbusChassisDrivingMode
+int32 gearlocation#ApollocanbusChassisGearPosition
+apollo_msgs/ApollocontrolDebug debug
+apollo_msgs/ApollocommonVehicleSignal signal
+apollo_msgs/ApollocontrolLatencyStats latencystats
+apollo_msgs/ApollocontrolPadMessage padmsg
+apollo_msgs/ApollocommonEngageAdvice engageadvice
+bool isinsafemode false
+bool leftturn
+bool rightturn
+bool highbeam
+bool lowbeam
+bool horn
+int32 turnsignal#ApollocontrolTurnSignal

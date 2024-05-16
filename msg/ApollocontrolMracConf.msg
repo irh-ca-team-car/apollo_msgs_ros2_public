@@ -1,0 +1,11 @@
+int32 mracmodelorder 1
+float64 referencetimeconstant
+float64 referencenaturalfrequency
+float64 referencedampingratio
+float64[] adaptionstategain
+float64 adaptiondesiredgain
+float64 adaptionnonlineargain
+float64[] adaptionmatrixp
+float64 mracsaturationlevel 1.0
+float64[] antiwindupcompensationgain
+float64 clampingtimeconstant

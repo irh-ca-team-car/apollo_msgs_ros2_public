@@ -1,0 +1,7 @@
+float64 heading
+int32 longitudeseconds
+int32 longitudeminutes
+int32 longitudedegrees
+int32 latitudeseconds
+int32 latitudeminutes
+int32 latitudedegrees

@@ -1,0 +1,6 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollocommonPointLLH position
+apollo_msgs/ApollocommonPoint3D velocity
+apollo_msgs/ApollocommonPoint3D attitude
+float64[] pvacovar
+bool initandalignment

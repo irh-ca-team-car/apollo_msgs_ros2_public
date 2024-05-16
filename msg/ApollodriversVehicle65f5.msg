@@ -1,0 +1,5 @@
+float64 canrxinnerfunneloffsetright
+float64 canrxinnerfunneloffsetleft
+int32 canvolvofarangemaxshort
+float64 canvolvofaminvspeedshort
+float64 canvolvofaaalignestimate

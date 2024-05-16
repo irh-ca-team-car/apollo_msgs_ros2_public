@@ -1,0 +1,5 @@
+int32 cruisecontrolbutton#ApollocanbusCruiseControlButtonType
+bool ignoreoverrides
+bool clearoverride
+bool enable
+bool clearfaults

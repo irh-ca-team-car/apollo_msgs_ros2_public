@@ -1,0 +1,3 @@
+apollo_msgs/ApollodriverscontiRadarCanConf canconf
+apollo_msgs/ApollodriverscontiRadarRadarConf radarconf
+string radarchannel

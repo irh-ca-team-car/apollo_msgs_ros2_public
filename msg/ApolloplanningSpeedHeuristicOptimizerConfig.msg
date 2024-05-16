@@ -1,0 +1,2 @@
+apollo_msgs/ApolloplanningDpStSpeedOptimizerConfig defaultspeedconfig
+apollo_msgs/ApolloplanningDpStSpeedOptimizerConfig lanechangespeedconfig

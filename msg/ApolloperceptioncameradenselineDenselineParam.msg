@@ -1,0 +1,2 @@
+apollo_msgs/ApolloperceptioncameradenselineModelParam modelparam
+apollo_msgs/ApolloperceptioncameradenselineNetworkParam netparam

@@ -1,0 +1,8 @@
+int32 vcupowermode
+int32 vcupowermodevalid
+bool replacebatterystateindication
+bool forbiddenaebsignal
+float64 bcuchargedischargecurrent
+float64 bcubattinternalvoltage
+int32 vcudriverinfoalivecounter
+int32 vcudriverinfochecksum

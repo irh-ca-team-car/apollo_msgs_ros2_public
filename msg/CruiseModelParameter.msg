@@ -1,0 +1,6 @@
+apollo_msgs/LaneFeatureConvParameter lanefeatureconv
+apollo_msgs/MaxPool1dParameter lanefeaturemaxpool
+apollo_msgs/AvgPool1dParameter lanefeatureavgpool
+apollo_msgs/ObsFeatureFCParameter obsfeaturefc
+apollo_msgs/ClassifyParameter classify
+apollo_msgs/RegressParameter regress

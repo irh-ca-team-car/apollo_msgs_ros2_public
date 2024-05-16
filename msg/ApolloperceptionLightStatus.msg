@@ -1,0 +1,6 @@
+float64 brakevisible
+float64 brakeswitchon
+float64 leftturnvisible
+float64 leftturnswitchon
+float64 rightturnvisible
+float64 rightturnswitchon

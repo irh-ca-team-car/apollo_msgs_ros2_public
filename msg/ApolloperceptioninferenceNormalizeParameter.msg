@@ -1,0 +1,4 @@
+bool acrossspatial true
+apollo_msgs/ApolloperceptioninferenceFillerParameter scalefiller
+bool channelshared true
+float32 eps 1e-10

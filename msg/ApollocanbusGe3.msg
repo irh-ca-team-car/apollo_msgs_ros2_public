@@ -1,0 +1,16 @@
+apollo_msgs/ApollocanbusPcBcm201 pcbcm201
+apollo_msgs/ApollocanbusScuBcs3308 scubcs3308
+apollo_msgs/ApollocanbusPcEpb203 pcepb203
+apollo_msgs/ApollocanbusPcBcs202 pcbcs202
+apollo_msgs/ApollocanbusPcVcu205 pcvcu205
+apollo_msgs/ApollocanbusPcEps204 pceps204
+apollo_msgs/ApollocanbusScuVcu2313 scuvcu2313
+apollo_msgs/ApollocanbusScu1301 scu1301
+apollo_msgs/ApollocanbusScu2302 scu2302
+apollo_msgs/ApollocanbusScu3303 scu3303
+apollo_msgs/ApollocanbusScuBcm304 scubcm304
+apollo_msgs/ApollocanbusScuBcs1306 scubcs1306
+apollo_msgs/ApollocanbusScuBcs2307 scubcs2307
+apollo_msgs/ApollocanbusScuEpb310 scuepb310
+apollo_msgs/ApollocanbusScuVcu1312 scuvcu1312
+apollo_msgs/ApollocanbusScuEps311 scueps311

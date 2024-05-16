@@ -1,0 +1,2 @@
+apollo_msgs/ApollohdmapBoundaryPolygon outerpolygon
+apollo_msgs/ApollohdmapBoundaryPolygon[] hole

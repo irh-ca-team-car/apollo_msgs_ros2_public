@@ -1,0 +1,11 @@
+float32 brightnessprob 0.0
+float32 brightnessdelta 0.0
+float32 contrastprob 0.0
+float32 contrastlower 0.0
+float32 contrastupper 0.0
+float32 hueprob 0.0
+float32 huedelta 0.0
+float32 saturationprob 0.0
+float32 saturationlower 0.0
+float32 saturationupper 0.0
+float32 randomorderprob 0.0

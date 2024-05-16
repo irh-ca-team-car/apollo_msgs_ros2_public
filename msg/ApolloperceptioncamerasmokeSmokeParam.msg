@@ -1,0 +1,3 @@
+apollo_msgs/ApolloperceptioncamerasmokeModelParam modelparam
+apollo_msgs/ApolloperceptioncamerasmokeNetworkParam netparam
+apollo_msgs/ApolloperceptioncamerasmokeNMSParam nmsparam

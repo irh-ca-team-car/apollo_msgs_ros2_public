@@ -1,0 +1,11 @@
+float64 xygridresolution 0.2
+float64 phigridresolution 0.05
+uint64 nextnodenum 10
+float64 stepsize 0.5
+float64 trajforwardpenalty 0.0
+float64 trajbackpenalty 0.0
+float64 trajgearswitchpenalty 10.0
+float64 trajsteerpenalty 100.0
+float64 trajsteerchangepenalty 10.0
+float64 gridastarxyresolution 0.1
+float64 noderadius 0.5

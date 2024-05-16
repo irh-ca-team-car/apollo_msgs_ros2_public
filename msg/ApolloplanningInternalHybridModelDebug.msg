@@ -1,0 +1,4 @@
+bool usinglearningmodeloutput false
+float64 learningmodeloutputusageratio
+string learningmodeloutputfailreason
+apollo_msgs/ApollocommonPath evaluatedpathreference

@@ -1,0 +1,9 @@
+apollo_msgs/Vector3 deviceposition
+apollo_msgs/Quaternion deviceheading
+apollo_msgs/GPSPose devicegpspose
+apollo_msgs/Vector4[] points
+apollo_msgs/RadarPoint[] radarpoints
+apollo_msgs/CameraImage[] images
+float64 timestamp
+int32 frameseq
+string datafile

@@ -1,0 +1,4 @@
+float64 throttlepedalactual
+int32 throttleflt2#ApollocanbusThrottleFlt2Type
+int32 throttleflt1#ApollocanbusThrottleFlt1Type
+int32 throttleenstate#ApollocanbusThrottleEnStateType

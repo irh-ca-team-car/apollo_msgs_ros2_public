@@ -1,0 +1,3 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollodriversmicrophoneconfigMicrophoneConfig microphoneconfig
+apollo_msgs/ApollodriversmicrophoneconfigChannelData[] channeldata

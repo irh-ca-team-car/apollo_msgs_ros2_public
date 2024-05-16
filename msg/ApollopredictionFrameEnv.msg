@@ -1,0 +1,3 @@
+float64 timestamp
+apollo_msgs/ApollopredictionObstacleHistory egohistory
+apollo_msgs/ApollopredictionObstacleHistory[] obstacleshistory

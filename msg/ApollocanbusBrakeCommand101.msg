@@ -1,0 +1,5 @@
+float64 brakedec
+int32 checksum101
+float64 brakepedaltarget
+int32 brakeenctrl#ApollocanbusBrakeEnCtrlType
+int32 aebenctrl#ApollocanbusAebEnCtrlType

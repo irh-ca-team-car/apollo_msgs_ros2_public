@@ -1,0 +1,2 @@
+int32 gearstatetarget#ApollocanbusGearStateTargetType
+int32 gearenablecontrol#ApollocanbusGearEnableControlType

@@ -1,0 +1,6 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApolloroutingRoadSegment[] road
+apollo_msgs/ApolloroutingMeasurement measurement
+apollo_msgs/ApolloroutingRoutingRequest routingrequest
+string mapversion
+apollo_msgs/ApollocommonStatusPb status

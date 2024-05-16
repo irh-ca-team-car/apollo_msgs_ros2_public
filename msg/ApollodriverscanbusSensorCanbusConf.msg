@@ -1,0 +1,3 @@
+apollo_msgs/ApollodriverscanbusCANCardParameter cancardparameter
+bool enabledebugmode false
+bool enablereceiverlog false

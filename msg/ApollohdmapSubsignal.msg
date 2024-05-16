@@ -1,0 +1,3 @@
+apollo_msgs/ApollohdmapId id
+int32 type#ApollohdmapType
+apollo_msgs/ApollocommonPointENU location

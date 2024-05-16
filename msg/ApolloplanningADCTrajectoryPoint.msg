@@ -1,0 +1,3 @@
+float64 timestampsec
+apollo_msgs/ApolloplanningPlanningTag planningtag
+apollo_msgs/ApolloplanningCommonTrajectoryPointFeature trajectorypoint

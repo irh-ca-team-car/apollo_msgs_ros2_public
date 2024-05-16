@@ -1,0 +1,2 @@
+int32 smoothingmethod#ApolloplanningSmoothingMethod
+apollo_msgs/ApolloplanningDiscretePointsSmootherConfigSmootherConfig smootherconfig

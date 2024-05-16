@@ -1,0 +1,14 @@
+int32 aebstate
+bool aebbrakestate
+int32 faultrank
+int32 currenttemperature
+bool pasf1stop
+bool pasf2stop
+bool pasf3stop
+bool pasf4stop
+bool pasb1stop
+bool pasb2stop
+bool pasb3stop
+bool pasb4stop
+int32 aeblivecounterrear
+int32 aebcheksum

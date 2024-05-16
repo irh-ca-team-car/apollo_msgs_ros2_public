@@ -1,0 +1,24 @@
+float64 ts
+float64 cf
+float64 cr
+int32 massfl
+int32 massfr
+int32 massrl
+int32 massrr
+float64 eps
+float64[] matrixq
+float64[] matrixr
+int32 cutofffreq
+int32 meanfilterwindowsize
+int32 maxiteration
+float64 maxlateralacceleration
+float64 standstillacceleration
+float64 brakeminimumaction
+float64 throttleminimumaction
+apollo_msgs/ApollocontrolGainScheduler laterrgainscheduler
+apollo_msgs/ApollocontrolGainScheduler headingerrgainscheduler
+apollo_msgs/ApollocontrolGainScheduler steerweightgainscheduler
+apollo_msgs/ApollocontrolGainScheduler feedforwardtermgainscheduler
+apollo_msgs/ApollocontrolcalibrationtableControlCalibrationTable calibrationtable
+bool enablempcfeedforwardcompensation false
+float64 unconstrainedcontroldifflimit

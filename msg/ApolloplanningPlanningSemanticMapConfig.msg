@@ -1,0 +1,12 @@
+float64 resolution
+int32 height
+int32 width
+int32 egoidxx
+int32 egoidxy
+float64 maxranddeltaphi
+float64 maxegofuturehorizon
+float64 maxegopasthorizon
+float64 maxobsfuturehorizon
+float64 maxobspasthorizon
+int32 basemappadding
+float64 citydrivingmaxspeed

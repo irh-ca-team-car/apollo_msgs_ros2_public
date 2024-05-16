@@ -1,0 +1,3 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollocommonVehicleParam vehicleparam
+apollo_msgs/ApollocommonExtrinsics extrinsics

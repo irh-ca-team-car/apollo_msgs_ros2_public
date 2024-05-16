@@ -1,0 +1,10 @@
+float64 canrxfactgtranger2m
+float64 canrxfactgtrangem2t
+float64 canrxfactgtrange1
+int32 canrxfactgtmtgspacever
+int32 canrxfactgtmtgspacehor
+int32 canrxfactgtmtgoffset
+int32 canrxfacalignsampreq
+int32 canrxfacalignmaxnt
+int32 canrxfacaligncmd2#ApollodriversCanRxFacAlignCmd2Type
+int32 canrxfacaligncmd1#ApollodriversCanRxFacAlignCmd1Type

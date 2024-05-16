@@ -1,0 +1,2 @@
+string key
+apollo_msgs/ApollomonitorComponentStatus data

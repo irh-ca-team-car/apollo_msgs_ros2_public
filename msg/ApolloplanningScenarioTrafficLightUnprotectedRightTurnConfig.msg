@@ -1,0 +1,7 @@
+float64 starttrafficlightscenariodistance
+bool enablerightturnonred false
+float64 maxvalidstopdistance 3.5
+float64 minpasssdistance 3.0
+float32 redlightrightturnstopdurationsec
+float32 creeptimeoutsec 10.0
+float64 maxadcspeedbeforecreep 3.0

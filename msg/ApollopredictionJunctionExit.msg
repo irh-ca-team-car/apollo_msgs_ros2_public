@@ -1,0 +1,4 @@
+string exitlaneid
+apollo_msgs/ApollocommonPoint3D exitposition
+float64 exitheading
+float64 exitwidth

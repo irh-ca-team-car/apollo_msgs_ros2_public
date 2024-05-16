@@ -1,0 +1,5 @@
+int32 mediacontrolscmd#ApollocanbusMediaControlsCmdType
+bool ignoreoverrides
+bool clearoverride
+bool clearfaults
+bool enable

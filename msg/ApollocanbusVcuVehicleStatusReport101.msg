@@ -1,0 +1,12 @@
+bool driveenableresp
+bool vcuhighvoltagecircuitstate
+bool vcudcdcenabledstates
+int32 controlmoderesp#ApollocanbusControlModeRespType
+float64 vcuvehiclespeed
+int32 vculowbatterychargingfunctionst
+int32 vcudisplaysoc
+float64 vcumotorspeed
+int32 vcumotordirection
+bool vcumotorspeedvalid
+int32 vcustatusreptalivecounter
+int32 vcustatusreptchecksum

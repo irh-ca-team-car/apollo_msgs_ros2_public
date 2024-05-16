@@ -1,0 +1,37 @@
+string modelname "yolo-2d"
+string protofile "caffe.pt"
+string weightfile "caffe.model"
+string stage1pt "caffe.pt"
+string stage1md "caffe.model"
+string stage2pt "caffe.pt"
+string stage2md "caffe.model"
+string anchorsfile "anchors.txt"
+string typesfile "types.txt"
+string featurefile "feature.pt"
+float32 offsetratio 0.288889
+float32 croppedratio 0.711111
+int32 resizedwidth 1440
+int32 alignedpixel 32
+float32 confidencethreshold 0.1
+float32 lightvisconfthreshold 0.5
+float32 lightswtconfthreshold 0.5
+float32 roiconfthreshold 0.1
+float32 boxconfthreshold 0.5
+float32 stage2nmsthreshold 0.4
+float32 min2dheight 0.0
+float32 min3dheight 0.0
+float32 min3dwidth 0.0
+float32 min3dlength 0.0
+string calibratetableroot "./"
+string modeltype "CaffeNet"
+int32 oricycle 1
+bool perclsreg false
+apollo_msgs/ApolloperceptioncamerasmokeDimensionStatistics[] dimensionstatistics
+apollo_msgs/ApolloperceptioncamerasmokeBBoxStatistics[] bboxstatistics
+string expandfile "expand.txt"
+bool withbox3d false
+bool withfrbox false
+bool withlights false
+bool withratios false
+int32 numareas 0
+float32 borderratio .01

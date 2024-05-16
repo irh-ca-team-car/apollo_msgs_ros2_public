@@ -1,0 +1,12 @@
+apollo_msgs/Bytes version
+apollo_msgs/Bytes date
+apollo_msgs/ApollohdmapProjection projection
+apollo_msgs/Bytes district
+apollo_msgs/Bytes generation
+apollo_msgs/Bytes revmajor
+apollo_msgs/Bytes revminor
+float64 left
+float64 top
+float64 right
+float64 bottom
+apollo_msgs/Bytes vendor

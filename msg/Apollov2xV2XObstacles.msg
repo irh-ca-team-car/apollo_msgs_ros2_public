@@ -1,0 +1,5 @@
+apollo_msgs/Apollov2xV2XObstacle[] v2xobstacle
+apollo_msgs/Apollov2xMiniAreaMap areamap
+float64 trafficflow
+apollo_msgs/ApollocommonHeader apolloheader
+int32 errorcode#ApollocommonErrorCode

@@ -1,0 +1,2 @@
+apollo_msgs/ApollohdmapCurve curve
+int32 type#ApollohdmapType

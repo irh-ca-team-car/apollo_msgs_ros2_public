@@ -1,0 +1,2 @@
+int32 staticc#ApolloplanningObjectStatic
+int32 dynamic#ApolloplanningObjectDynamic

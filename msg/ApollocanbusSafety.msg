@@ -1,0 +1,23 @@
+bool isdrivercardoorclose
+bool isdriverbuckled
+int32 emergencybutton
+bool haserror false
+bool ismotorinvertorfault
+bool issystemfault
+bool ispowerbatteryfault
+bool ismotorinvertorovertemperature
+bool issmallbatterychargedischargefault
+int32 drivingmode
+bool ispassengerdooropen
+bool isrearleftdooropen
+bool isrearrightdooropen
+bool ishoodopen
+bool istrunkopen
+bool ispassengerdetected
+bool ispassengerairbagenabled
+bool ispassengerbuckled
+int32 frontlefttirepress
+int32 frontrighttirepress
+int32 rearlefttirepress
+int32 rearrighttirepress
+int32 cardrivingmode#ChassisDrivingMode

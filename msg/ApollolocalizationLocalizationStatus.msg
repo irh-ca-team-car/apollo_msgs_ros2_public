@@ -1,0 +1,6 @@
+apollo_msgs/ApollocommonHeader apolloheader
+int32 fusionstatus#ApollolocalizationMeasureState
+int32 gnssstatus#ApollolocalizationMeasureState
+int32 lidarstatus#ApollolocalizationMeasureState
+float64 measurementtime
+string statemessage

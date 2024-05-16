@@ -1,0 +1,2 @@
+apollo_msgs/ApollodriversracobitRadarCanConf canconf
+apollo_msgs/ApollodriversracobitRadarRadarConf radarconf

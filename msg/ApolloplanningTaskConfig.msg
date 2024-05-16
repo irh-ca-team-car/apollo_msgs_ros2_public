@@ -1,0 +1,2 @@
+int32 tasktype#ApolloplanningTaskType
+apollo_msgs/ApolloplanningTaskConfigtaskConfig taskconfig

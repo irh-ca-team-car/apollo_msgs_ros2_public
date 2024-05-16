@@ -1,0 +1,8 @@
+uint32 numclasses
+apollo_msgs/ApolloperceptioninferenceNonMaximumSuppressionParameter nmsparam
+int32 keeptopk -1
+float32 confidencethreshold
+apollo_msgs/ApolloperceptioninferenceAnchorBox[] anchorbox
+int32 nmstype
+float32 nmssigma
+bool isrpn false

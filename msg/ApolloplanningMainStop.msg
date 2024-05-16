@@ -1,0 +1,5 @@
+int32 reasoncode#ApolloplanningStopReasonCode
+string reason
+apollo_msgs/ApollocommonPointENU stoppoint
+float64 stopheading
+int32 changelanetype#ApolloroutingChangeLaneType

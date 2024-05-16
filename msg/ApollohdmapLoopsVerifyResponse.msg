@@ -1,0 +1,3 @@
+int32 code#ApollohdmapErrorCode
+float64 progress
+apollo_msgs/ApollohdmapLoopResult loopresult

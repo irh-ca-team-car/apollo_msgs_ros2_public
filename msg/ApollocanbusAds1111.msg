@@ -1,0 +1,6 @@
+int32 adsdectostop#ApollocanbusAdsDectostopType
+int32 adsmode#ApollocanbusAdsModeType
+float64 adstaracce
+int32 adsdriveoffreq#ApollocanbusAdsDriveoffReqType
+float64 adsaebtaracce
+int32 adsaebtgtdecelreq#ApollocanbusAdsAebTgtdecelReqType

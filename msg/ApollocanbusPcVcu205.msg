@@ -1,0 +1,6 @@
+float64 pcaccpedreq
+int32 pcaccpedenable#ApollocanbusPcAccpedenableType
+float64 pctorqreq
+int32 pctorqenable#ApollocanbusPcTorqenableType
+int32 pcgearreq#ApollocanbusPcGearreqType
+int32 pcgearenable#ApollocanbusPcGearenableType

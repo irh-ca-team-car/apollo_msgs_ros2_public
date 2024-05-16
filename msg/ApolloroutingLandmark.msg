@@ -1,0 +1,4 @@
+string name
+apollo_msgs/ApolloroutingLaneWaypoint[] waypoint
+string parkingspaceid
+apollo_msgs/ApolloroutingParkingInfo parkinginfo

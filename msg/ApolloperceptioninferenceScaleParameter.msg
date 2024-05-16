@@ -1,0 +1,5 @@
+int32 axis 1
+int32 numaxes 1
+apollo_msgs/ApolloperceptioninferenceFillerParameter filler
+bool biasterm false
+apollo_msgs/ApolloperceptioninferenceFillerParameter biasfiller

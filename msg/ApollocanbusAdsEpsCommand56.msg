@@ -1,0 +1,4 @@
+bool driveenable
+float64 autotargetangle
+int32 autodrivercmdalivecounter
+int32 autodrivercmdchecksum

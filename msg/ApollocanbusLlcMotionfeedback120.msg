@@ -1,0 +1,14 @@
+int32 llcfbkgear#ApollocanbusLlcFbkGearType
+bool llcfbkparkingbrake
+float64 llcfbkthrottleposition
+float64 llcfbkbrakepercentrear
+float64 llcfbkbrakepercentfront
+int32 llcfbksteeringcontrolmode#ApollocanbusLlcFbkSteeringcontrolmodeType
+int32 llcmotionfeedback1counter
+int32 llcmotionfeedback1checksum
+bool llcfbkcommandaligned
+bool llcfbkestoppressed
+bool llcfbkadcrequestautonomy
+bool llcfbkallowautonomy
+int32 llcfbklongitudinalcontrolmode#ApollocanbusLlcFbkLongitudinalcontrolmodeType
+int32 llcfbkstate#ApollocanbusLlcFbkStateType

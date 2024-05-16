@@ -1,0 +1,10 @@
+bool brakeonoffisvalid
+bool brakeonoff
+bool userinteractionisvalid
+bool userinteraction
+bool rawbrakepressureisvalid
+float64 rawbrakepressure
+bool rawpedalforceisvalid
+float64 rawpedalforce
+bool rawpedalposisvalid
+float64 rawpedalpos

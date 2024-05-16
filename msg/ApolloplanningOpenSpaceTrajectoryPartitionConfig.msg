@@ -1,0 +1,13 @@
+float64 gearshiftmaxt
+float64 gearshiftunitt
+float64 gearshiftperiodduration
+uint64 interpolatedpiecesnum
+uint64 initialgearcheckhorizon
+float64 headingsearchrange
+float64 headingtrackrange
+float64 distancesearchrange 1.0e-6
+float64 headingoffsettomidpoint
+float64 lateraloffsettomidpoint 0.1
+float64 longitudinaloffsettomidpoint 0.1
+float64 vehicleboxiouthresholdtomidpoint 0.95
+float64 linearvelocitythresholdonego 0.2

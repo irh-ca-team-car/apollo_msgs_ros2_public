@@ -1,0 +1,2 @@
+int32 adsshiftmode#ApollocanbusAdsShiftmodeType
+int32 adstargetgear#ApollocanbusAdsTargetgearType

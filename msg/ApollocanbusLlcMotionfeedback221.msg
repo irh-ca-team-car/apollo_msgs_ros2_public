@@ -1,0 +1,5 @@
+float64 llcfbkvehiclespeed
+int32 llcmotionfeedback2counter
+int32 llcmotionfeedback2checksum
+float64 llcfbksteeringrate
+float64 llcfbksteeringangle

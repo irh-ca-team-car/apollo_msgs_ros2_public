@@ -1,0 +1,9 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/Bytes rsuid
+int32 rsiid
+int32 altertype
+string description
+apollo_msgs/ApollocommonPoint2D refpoint
+apollo_msgs/ApollocommonPoint2D[] points
+int32 radius
+int32 msgcnt

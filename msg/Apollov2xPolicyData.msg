@@ -1,0 +1,2 @@
+apollo_msgs/Apollov2xMap map
+apollo_msgs/Apollov2xSpat spat

@@ -1,0 +1,5 @@
+int32 id
+float64 timestamp
+apollo_msgs/ApollopredictionTrajectory[] trajectory
+apollo_msgs/ApollopredictionObstacleConf obstacleconf
+apollo_msgs/ApollopredictionScenario scenario

@@ -1,0 +1,9 @@
+string laneid
+uint32 laneturntype
+float64 lanes
+float64 lanel
+float64 anglediff
+float64 disttoleftboundary
+float64 disttorightboundary
+float64 laneheading
+int32 lanetype#ApollohdmapLaneLaneType

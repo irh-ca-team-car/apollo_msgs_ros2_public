@@ -1,0 +1,9 @@
+float64 epsilon 1e-5
+int32 axis
+bool center
+bool scale
+float32 momentum
+apollo_msgs/ApollopredictionTensorParameter mu
+apollo_msgs/ApollopredictionTensorParameter sigma
+apollo_msgs/ApollopredictionTensorParameter gamma
+apollo_msgs/ApollopredictionTensorParameter beta

@@ -1,0 +1,4 @@
+apollo_msgs/ApollohdmapCurve curve
+float64 length
+bool virtuall
+apollo_msgs/ApollohdmapLaneBoundaryType[] boundarytype

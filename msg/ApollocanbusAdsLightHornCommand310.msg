@@ -1,0 +1,6 @@
+bool turnrightlightcommand
+bool turnleftlightcommand
+bool horncommand
+int32 beamcommand
+int32 autodrivercmdalivecounter
+int32 autodrivercmdchecksum

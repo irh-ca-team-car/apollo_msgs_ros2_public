@@ -1,0 +1,2 @@
+apollo_msgs/ApollocommonPoint3D translation
+apollo_msgs/ApollocommonQuaternion rotation

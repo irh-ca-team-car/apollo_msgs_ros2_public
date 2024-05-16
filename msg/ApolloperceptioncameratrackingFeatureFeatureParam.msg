@@ -1,0 +1,3 @@
+int32 featstride 32
+apollo_msgs/ApolloperceptioncameratrackingFeatureExtractorParam[] extractor
+string remapmodel

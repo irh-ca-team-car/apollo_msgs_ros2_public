@@ -1,0 +1,2 @@
+int32 hardbrake#ApolloplanningEmergencyStopHardBrake
+int32 cruisetostop#ApolloplanningEmergencyStopCruiseToStop

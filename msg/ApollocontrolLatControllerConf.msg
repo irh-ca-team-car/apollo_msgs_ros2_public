@@ -1,0 +1,26 @@
+float64 ts
+int32 previewwindow
+float64 cf
+float64 cr
+int32 massfl
+int32 massfr
+int32 massrl
+int32 massrr
+float64 eps
+float64[] matrixq
+float64[] reversematrixq
+int32 cutofffreq
+int32 meanfilterwindowsize
+int32 maxiteration
+float64 maxlateralacceleration
+apollo_msgs/ApollocontrolGainScheduler laterrgainscheduler
+apollo_msgs/ApollocontrolGainScheduler headingerrgainscheduler
+apollo_msgs/ApollocontrolLeadlagConf reverseleadlagconf
+bool enablereverseleadlagcompensation false
+bool enablelookaheadbackcontrol false
+float64 lookaheadstation 0.0
+float64 lookbackstation 0.0
+apollo_msgs/ApollocontrolMracConf steermracconf
+bool enablesteermraccontrol false
+float64 lookaheadstationhighspeed 0.0
+float64 lookbackstationhighspeed 0.0

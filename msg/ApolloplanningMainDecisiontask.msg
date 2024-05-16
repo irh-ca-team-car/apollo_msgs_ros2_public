@@ -1,0 +1,7 @@
+apollo_msgs/ApolloplanningMainCruise cruise
+apollo_msgs/ApolloplanningMainStop stop
+apollo_msgs/ApolloplanningMainEmergencyStop estop
+apollo_msgs/ApolloplanningMainChangeLane changelane
+apollo_msgs/ApolloplanningMainMissionComplete missioncomplete
+apollo_msgs/ApolloplanningMainNotReady notready
+apollo_msgs/ApolloplanningMainParking parking

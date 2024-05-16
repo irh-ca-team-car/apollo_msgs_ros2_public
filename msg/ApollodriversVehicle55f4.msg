@@ -1,0 +1,9 @@
+int32 canrxyawratebiasshift#ApollodriversCanRxYawRateBiasShiftType
+float64 canrxsteeringgearratio
+float64 canrxwheelbase
+float64 canrxdistancerearaxle
+float64 canrxcwblockagethreshold
+float64 canrxfunneloffsetright
+float64 canrxfunneloffsetleft
+float64 canrxbeamwidthvert
+int32 canrxoversteerundersteer

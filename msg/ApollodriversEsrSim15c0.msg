@@ -1,0 +1,9 @@
+int32 canrxsimtrackid#ApollodriversCanRxSimTrackIdType
+int32 canrxsimstatus#ApollodriversCanRxSimStatusType
+float64 canrxsimrangerate
+float64 canrxsimrangeaccel
+int32 canrxsimrange
+float64 canrxsimlatrate
+float64 canrxsimlatpos
+int32 canrxsimfunction#ApollodriversCanRxSimFunctionType
+float64 canrxsimangle

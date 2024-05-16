@@ -1,0 +1,5 @@
+int32 engfail#ApollocanbusEngfailType
+int32 espfail#ApollocanbusEspfailType
+int32 epbfail#ApollocanbusEpbfailType
+int32 shiftfail#ApollocanbusShiftfailType
+int32 epsfail#ApollocanbusEpsfailType

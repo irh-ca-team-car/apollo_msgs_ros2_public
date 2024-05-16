@@ -1,0 +1,7 @@
+float64 l
+float64 dl
+float64 ddl
+float64 kappa
+apollo_msgs/ApolloplanningautotuningObstacleFeature[] obstacleinfo
+apollo_msgs/ApolloplanningautotuningBoundRelatedFeature leftboundfeature
+apollo_msgs/ApolloplanningautotuningBoundRelatedFeature rightboundfeature

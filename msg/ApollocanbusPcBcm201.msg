@@ -1,0 +1,7 @@
+int32 pcreverselampreq#ApollocanbusPcReverselampreqType
+int32 pclowbeamreq#ApollocanbusPcLowbeamreqType
+int32 pchighbeamreq#ApollocanbusPcHighbeamreqType
+int32 pcrightturnlampreq#ApollocanbusPcRightturnlampreqType
+int32 pcleftturnlampreq#ApollocanbusPcLeftturnlampreqType
+int32 pchornreq#ApollocanbusPcHornreqType
+int32 pchazardlampreq#ApollocanbusPcHazardlampreqType

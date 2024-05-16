@@ -1,0 +1,9 @@
+apollo_msgs/ApollocommonPointENU position
+apollo_msgs/ApollocommonQuaternion orientation
+apollo_msgs/ApollocommonPoint3D linearvelocity
+apollo_msgs/ApollocommonPoint3D linearacceleration
+apollo_msgs/ApollocommonPoint3D angularvelocity
+float64 heading
+apollo_msgs/ApollocommonPoint3D linearaccelerationvrf
+apollo_msgs/ApollocommonPoint3D angularvelocityvrf
+apollo_msgs/ApollocommonPoint3D eulerangles

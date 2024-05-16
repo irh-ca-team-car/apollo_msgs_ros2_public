@@ -1,0 +1,2 @@
+apollo_msgs/ApollocommonPointENU stoppoint
+float64 stopheading

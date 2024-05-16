@@ -1,0 +1,10 @@
+int32 lanetype#ApollohdmapLaneBoundaryTypeType
+float64 quality
+int32 modeldegree
+float64 c0position
+float64 c1headingangle
+float64 c2curvature
+float64 c3curvaturederivative
+float64 viewrange
+float64 longitudestart
+float64 longitudeend

@@ -1,0 +1,6 @@
+float64 refpoint1position
+float64 refpoint1distance
+bool refpoint1validity
+float64 refpoint2position
+float64 refpoint2distance
+bool refpoint2validity

@@ -1,0 +1,12 @@
+bool iswheelspdrrvalid false
+int32 wheeldirectionrr#ApollocanbusWheelSpeedType
+float64 wheelspdrr 0.0
+bool iswheelspdrlvalid false
+int32 wheeldirectionrl#ApollocanbusWheelSpeedType
+float64 wheelspdrl 0.0
+bool iswheelspdfrvalid false
+int32 wheeldirectionfr#ApollocanbusWheelSpeedType
+float64 wheelspdfr 0.0
+bool iswheelspdflvalid false
+int32 wheeldirectionfl#ApollocanbusWheelSpeedType
+float64 wheelspdfl 0.0

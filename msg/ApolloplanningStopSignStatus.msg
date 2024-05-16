@@ -1,0 +1,3 @@
+string currentstopsignoverlapid
+string donestopsignoverlapid
+string[] waitforobstacleid

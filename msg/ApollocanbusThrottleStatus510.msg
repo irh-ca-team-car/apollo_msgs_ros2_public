@@ -1,0 +1,4 @@
+int32 throttlepedalensts#ApollocanbusThrottlePedalEnStsType
+int32 throttlepedalsts
+int32 drivemotorerr#ApollocanbusDriveMotorErrType
+int32 batterybmserr#ApollocanbusBatteryBmsErrType

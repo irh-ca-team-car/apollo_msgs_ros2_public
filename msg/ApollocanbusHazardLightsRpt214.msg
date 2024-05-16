@@ -1,0 +1,10 @@
+bool outputvalue
+bool commandedvalue
+bool manualinput
+bool vehiclefault
+bool pacmodfault
+bool overrideactive
+bool outputreportedfault
+bool inputoutputfault
+bool enabled
+bool commandoutputfault

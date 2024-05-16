@@ -1,0 +1,3 @@
+float64 starttrafficlightscenariodistance
+float64 maxvalidstopdistance 2.0
+float64 minpasssdistance 3.0

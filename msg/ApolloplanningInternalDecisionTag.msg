@@ -1,0 +1,2 @@
+string decidertag
+apollo_msgs/ApolloplanningObjectDecisionType decision

@@ -1,0 +1,15 @@
+float64 s
+float64 t
+float64 v
+float64 a
+float64 j
+float64 speedlimit
+apollo_msgs/ApolloplanningautotuningObjectDecisionFeature[] follow
+apollo_msgs/ApolloplanningautotuningObjectDecisionFeature[] overtake
+apollo_msgs/ApolloplanningautotuningObjectDecisionFeature[] virtualdecision
+apollo_msgs/ApolloplanningautotuningObjectDecisionFeature[] stop
+apollo_msgs/ApolloplanningautotuningObjectDecisionFeature[] collision
+apollo_msgs/ApolloplanningautotuningObjectDecisionFeature[] nudge
+apollo_msgs/ApolloplanningautotuningObjectDecisionFeature[] sidepassfront
+apollo_msgs/ApolloplanningautotuningObjectDecisionFeature[] sidepassrear
+apollo_msgs/ApolloplanningautotuningObjectDecisionFeature[] keepclear

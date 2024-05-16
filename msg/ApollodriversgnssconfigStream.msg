@@ -1,0 +1,3 @@
+int32 format#ApollodriversgnssconfigFormat
+apollo_msgs/ApollodriversgnssconfigStreamtype type
+bool pushlocation

@@ -1,0 +1,5 @@
+int32 steeranglespdactual
+int32 steerflt2#ApollocanbusSteerFlt2Type
+int32 steerflt1#ApollocanbusSteerFlt1Type
+int32 steerenstate#ApollocanbusSteerEnStateType
+int32 steerangleactual

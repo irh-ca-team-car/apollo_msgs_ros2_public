@@ -1,0 +1,16 @@
+int32 vehicleerrorindicationsvcu
+int32 brakesystemerrorehb
+int32 epserror
+int32 motorerror
+int32 epberror
+int32 highvoltagebatteryerrorbcu
+bool automodeexitreasonlosscommuni
+bool automodeexitreasonreqsignalno
+bool automodeexitreasonlowpower
+bool automodeexitreasonhighvolt
+bool automodeexitreasonvehicleflt
+bool automodeexitreasonpressemerg
+bool automodeexitreasonpressremot
+bool automodeexitreasonpducontrol
+int32 vcufaultreptalivecounter
+int32 vcufaultreptchecksum

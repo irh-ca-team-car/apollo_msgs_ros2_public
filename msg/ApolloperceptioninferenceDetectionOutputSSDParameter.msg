@@ -1,0 +1,12 @@
+float32 heatmapa
+float32 minsizeh 2.0
+float32 minsizew 2.0
+int32 minsizemode#ApolloperceptioninferenceMINSIZEMODE
+float32 thresholdobjectness 0.0
+apollo_msgs/ApolloperceptioninferenceGenAnchorParameter genanchorparam
+bool refineoutofmapbbox false
+apollo_msgs/ApolloperceptioninferenceNMSSSDParameter nmsparam
+uint32 numclass 1
+bool rpnproposaloutputscore false
+bool regressagnostic
+float32[] threshold

@@ -1,0 +1,5 @@
+float64 longitudeacce
+float64 lateralacce
+float64 vehdynyawrate
+float64 flwheelspd
+int32 frwheeldirection#ApollocanbusFrwheeldirectionType

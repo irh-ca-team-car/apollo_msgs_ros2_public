@@ -1,0 +1,5 @@
+apollo_msgs/ApollocommonHeader apolloheader
+apollo_msgs/ApollohdmapMap hdmap
+apollo_msgs/ApollorelativeMapMapMsgnavigationPath[] navigationpath
+apollo_msgs/ApolloperceptionLaneMarkers lanemarker
+apollo_msgs/ApollolocalizationLocalizationEstimate localization

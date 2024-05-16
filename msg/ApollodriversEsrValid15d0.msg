@@ -1,0 +1,5 @@
+int32 cantxvalidlrsn
+float64 cantxvalidlrrangerate
+float64 cantxvalidlrrange
+int32 cantxvalidlrpower
+float64 cantxvalidlrangle

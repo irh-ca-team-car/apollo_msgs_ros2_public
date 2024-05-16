@@ -1,0 +1,2 @@
+string parkingspaceid
+apollo_msgs/ApollocommonPointENU parkingpoint

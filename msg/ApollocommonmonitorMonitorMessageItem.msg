@@ -1,0 +1,3 @@
+int32 source#ApollocommonmonitorMessageSource
+string msg
+int32 loglevel#ApollocommonmonitorLogLevel

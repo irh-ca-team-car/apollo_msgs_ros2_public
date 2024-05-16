@@ -1,0 +1,2 @@
+float64 aebsoftwareversion
+float64 aebhardwareversion

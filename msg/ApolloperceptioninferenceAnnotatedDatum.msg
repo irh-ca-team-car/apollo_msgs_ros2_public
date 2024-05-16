@@ -1,0 +1,3 @@
+apollo_msgs/ApolloperceptioninferenceDatum datum
+int32 type#ApolloperceptioninferenceAnnotationType
+apollo_msgs/ApolloperceptioninferenceAnnotationGroup[] annotationgroup

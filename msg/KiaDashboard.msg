@@ -1,0 +1,12 @@
+float32 speedmps
+bool parkingbrake
+bool highbeamsignal
+bool lowbeamsignal
+bool leftturnsignal
+bool rightturnsignal
+float32 odometerm
+float32 fuelrangem
+bool brake_light 
+float32 ks_clock
+float32 estimated_range
+float32 extra_range

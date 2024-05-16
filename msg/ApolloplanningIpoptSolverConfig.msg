@@ -1,0 +1,12 @@
+int32 ipoptprintlevel
+int32 mumpsmempercent
+float64 mumpspivtol
+int32 ipoptmaxiter
+float64 ipopttol
+float64 ipoptacceptableconstrvioltol
+float64 ipoptminhessianperturbation
+float64 ipoptjacobianregularizationvalue
+string ipoptprinttimingstatistics
+string ipoptalphafory
+string ipoptrecalcy
+float64 ipoptmuinit 0.1

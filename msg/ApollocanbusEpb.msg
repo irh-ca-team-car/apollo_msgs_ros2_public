@@ -1,0 +1,4 @@
+bool isepberror
+bool isepbreleased
+int32 epbstatus
+int32 parkingbrakestatus#ApollocanbusPBrakeType
